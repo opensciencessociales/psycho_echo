@@ -21,8 +21,8 @@
   * [Chapitre IV - Coup d'œil historique](partie_preliminaire/chapitre4/README.md)
     * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.](partie_preliminaire/chapitre4/section1.md) Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
     * II. [Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
-* [Livre premier - La répétition économique]
-  * [**Chapitre I**](#489878020016476-psycho_eco_t1_pt_I_chap_I)**. Division du sujet.**
+* [Livre premier - La répétition économique](livre1/README.md)
+  * [Chapitre I - Division du sujet](#489878020016476-psycho_eco_t1_pt_I_chap_I)**. .**
   * [**Chapitre II**](#489878020016476-psycho_eco_t1_pt_I_chap_II)**. Rôle économique du désir**
     * I. [Distinction nette des aspects différents](#489878020016476-psycho_eco_t1_pt_I_chap_II_I) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
     * II. [Le bonheur, rotation périodique de désirs enchaînés.](#489878020016476-psycho_eco_t1_pt_I_chap_II_II) Courbes fermées et courbes ouvertes de désirs.
