@@ -4,40 +4,31 @@
 * [Partie préliminaire](partie_preliminaire/README.md)
   * [Chapitre premier - Considérations générales et lois sociales](partie_preliminaire/chapitre1/README.md)
     * [I. La société, tissu d'actions inter-spirituelles.](partie_preliminaire/chapitre1/section1.md) Deux grandes espèces du lien social, l'un direct, l'autre indirect.
-    * [II. Tendance de tout exemple au rayonnement imitatif.] Expansivité universelle. _Adaptation_ et _répétition,_ deux problèmes capitaux. Mérite et erreur de Darwin.
-    * [III. L'amplification historique.] Exemple de cette loi : le rapport des métropoles aux colonies dans le monde antique et dans le monde moderne.
-    * [IV. Conséquence nécessaire]: l'unification finale du genre humain. Par voie impériale ou fédérative ? Importance ici du facteur géographique, de la forme sphérique de la terre. Hypothèse d'une terre plate, au point de vue économique.
-    * [V. De là, division tripartite de l'histoire humaine.] Les trois grandes phases de la vie de l'humanité.
-    * [VI. Considérations générales à propos de l'adaptation, de la répétition, de l'opposition.] Les trois formes de la répétition universelle, de l'opposition universelle, de l'adaptation universelle.
-    * [VII. Lois communes à chacune de ces trois formes dans chacun de ces trois aspects de l'évolution.] Principe d'irréversibilité. L'importance de l'accident.
-    * [VIII. Classification des types sociaux.]
-    * [IX. Nécessité ou non de la mort des sociétés.]
-  * [Chapitre II - La valeur et les sciences sociales.]
-    * I. [Place de l'économie politique parmi les autres sciences sociales.] Théorie des vérités, théorie des utilités, théorie des beautés.
-    * II. [Valeur-vérité, valeur-gloire, valeur-crédit.]
-    * III. [Idées de monnaie, de propriété, de travail, d'association, etc.]
-    * IV. [Valeur d'un livre, production et concurrence des livres, offre et demande des livres.]
-  * [Chapitre III - Discussion du plan]
-  * [Chapitre IV - Coup d'œil historique]
-    * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.] Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
-    * II. [Adam Smith psychologue.] Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
-* [Livre premier]
-
-    [**La répétition économique**](#489878020016476-psycho_eco_t1_pt_I)
-
-    [**Chapitre I**](#489878020016476-psycho_eco_t1_pt_I_chap_I)**. Division du sujet.**
-
-    [**Chapitre II**](#489878020016476-psycho_eco_t1_pt_I_chap_II)**. Rôle économique du désir**
-
-    I. [Distinction nette des aspects différents](#489878020016476-psycho_eco_t1_pt_I_chap_II_I) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
-
-    II. [Le bonheur, rotation périodique de désirs enchaînés.](#489878020016476-psycho_eco_t1_pt_I_chap_II_II) Courbes fermées et courbes ouvertes de désirs.
-
-    III. [Naissance des désirs, leur propagation, leurs luttes.](#489878020016476-psycho_eco_t1_pt_I_chap_II_III)
-
-    IV. [Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](#489878020016476-psycho_eco_t1_pt_I_chap_II_IV) Désirs passifs et désirs actifs.
-
-    V. [Couple important de désirs ](#489878020016476-psycho_eco_t1_pt_I_chap_II_V): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
+    * [II. Tendance de tout exemple au rayonnement imitatif.](partie_preliminaire/chapitre1/section2.md) Expansivité universelle. _Adaptation_ et _répétition,_ deux problèmes capitaux. Mérite et erreur de Darwin.
+    * [III. L'amplification historique.](partie_preliminaire/chapitre1/section3.md) Exemple de cette loi : le rapport des métropoles aux colonies dans le monde antique et dans le monde moderne.
+    * [IV. Conséquence nécessaire](partie_preliminaire/chapitre1/section4.md) : l'unification finale du genre humain. Par voie impériale ou fédérative ? Importance ici du facteur géographique, de la forme sphérique de la terre. Hypothèse d'une terre plate, au point de vue économique.
+    * [V. De là, division tripartite de l'histoire humaine.](partie_preliminaire/chapitre1/section5.md) Les trois grandes phases de la vie de l'humanité.
+    * [VI. Considérations générales à propos de l'adaptation, de la répétition, de l'opposition.](partie_preliminaire/chapitre1/section6.md) Les trois formes de la répétition universelle, de l'opposition universelle, de l'adaptation universelle.
+    * [VII. Lois communes à chacune de ces trois formes dans chacun de ces trois aspects de l'évolution.](partie_preliminaire/chapitre1/section7.md) Principe d'irréversibilité. L'importance de l'accident.
+    * [VIII. Classification des types sociaux.](partie_preliminaire/chapitre1/section8.md)
+    * [IX. Nécessité ou non de la mort des sociétés.](partie_preliminaire/chapitre1/section9.md)
+  * [Chapitre II - La valeur et les sciences sociales.](partie_preliminaire/chapitre2/README.md)
+    * I. [Place de l'économie politique parmi les autres sciences sociales.](partie_preliminaire/chapitre2/section1.md) Théorie des vérités, théorie des utilités, théorie des beautés.
+    * II. [Valeur-vérité, valeur-gloire, valeur-crédit.](partie_preliminaire/chapitre2/section2.md)
+    * III. [Idées de monnaie, de propriété, de travail, d'association, etc.](partie_preliminaire/chapitre2/section3.md)
+    * IV. [Valeur d'un livre, production et concurrence des livres, offre et demande des livres.](partie_preliminaire/chapitre2/section4.md)
+  * [Chapitre III - Discussion du plan](partie_preliminaire/chapitre3/README.md)
+  * [Chapitre IV - Coup d'œil historique](partie_preliminaire/chapitre4/README.md)
+    * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.](partie_preliminaire/chapitre4/section1.md) Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
+    * II. [Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
+* [Livre premier - La répétition économique]
+  * [**Chapitre I**](#489878020016476-psycho_eco_t1_pt_I_chap_I)**. Division du sujet.**
+  * [**Chapitre II**](#489878020016476-psycho_eco_t1_pt_I_chap_II)**. Rôle économique du désir**
+    * I. [Distinction nette des aspects différents](#489878020016476-psycho_eco_t1_pt_I_chap_II_I) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
+    * II. [Le bonheur, rotation périodique de désirs enchaînés.](#489878020016476-psycho_eco_t1_pt_I_chap_II_II) Courbes fermées et courbes ouvertes de désirs.
+    * III. [Naissance des désirs, leur propagation, leurs luttes.](#489878020016476-psycho_eco_t1_pt_I_chap_II_III)
+    * IV. [Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](#489878020016476-psycho_eco_t1_pt_I_chap_II_IV) Désirs passifs et désirs actifs.
+    * V. [Couple important de désirs ](#489878020016476-psycho_eco_t1_pt_I_chap_II_V): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
 
     [**Chapitre III**](#489878020016476-psycho_eco_t1_pt_I_chap_III)**. Rôle économique de la croyance**
 

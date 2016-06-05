@@ -1,4 +1,4 @@
-#### I La société, tissu d'actions inter-spirituelles.
+#### I - La société, tissu d'actions inter-spirituelles.
 
 Avant d'aborder le sujet spécial de ce traité, il me semble bon de tracer à grands traits la conception générale de la société humaine à laquelle on est conduit quand, tenant fermement en main les principes sur lesquels se fonde à mon avis la science sociale, on les applique non seulement au côté économique mais à tous les autres côtés sociaux de l'humanité.
 
