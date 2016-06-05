@@ -22,23 +22,18 @@
     * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.](partie_preliminaire/chapitre4/section1.md) Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
     * II. [Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
 * [Livre premier - La répétition économique](livre1/README.md)
-  * [Chapitre I - Division du sujet](#489878020016476-psycho_eco_t1_pt_I_chap_I)**. .**
-  * [**Chapitre II**](#489878020016476-psycho_eco_t1_pt_I_chap_II)**. Rôle économique du désir**
-    * I. [Distinction nette des aspects différents](#489878020016476-psycho_eco_t1_pt_I_chap_II_I) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
-    * II. [Le bonheur, rotation périodique de désirs enchaînés.](#489878020016476-psycho_eco_t1_pt_I_chap_II_II) Courbes fermées et courbes ouvertes de désirs.
-    * III. [Naissance des désirs, leur propagation, leurs luttes.](#489878020016476-psycho_eco_t1_pt_I_chap_II_III)
-    * IV. [Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](#489878020016476-psycho_eco_t1_pt_I_chap_II_IV) Désirs passifs et désirs actifs.
-    * V. [Couple important de désirs ](#489878020016476-psycho_eco_t1_pt_I_chap_II_V): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
-
-    [**Chapitre III**](#489878020016476-psycho_eco_t1_pt_I_chap_III)**. Rôle économique de la croyance**
-
-    I. [Action des croyances sur les désirs, et réciproquement.](#489878020016476-psycho_eco_t1_pt_I_chap_III_I) Leurs combinaisons. La réclame et son évolution : la réclame acoustique d'abord, puis visuelle.
-
-    II. [Comment naît et grandit la confiance en une nouveauté.](#489878020016476-psycho_eco_t1_pt_I_chap_III_II) Nos droits fondés sur nos _attentes._
-
-    III_._ [Attente des demandes de la clientèle par le producteur ](#489878020016476-psycho_eco_t1_pt_I_chap_III_III): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
-
-    [**Chapitre IV**](#489878020016476-psycho_eco_t1_pt_I_chap_IV)**. Les besoins.**
+  * [Chapitre I - Division du sujet](livre1/chapitre1/README.md)
+  * [Chapitre II - Rôle économique du désir](livre1/chapitre2/README.md)
+    * [I. Distinction nette des aspects différents](livre1/chapitre2/section1.md) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
+    * [II. Le bonheur, rotation périodique de désirs enchaînés.](livre1/chapitre2/section2.md) Courbes fermées et courbes ouvertes de désirs.
+    * [III. Naissance des désirs, leur propagation, leurs luttes.](livre1/chapitre2/section3.md)
+    * [IV. Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](livre1/chapitre2/section4.md) Désirs passifs et désirs actifs.
+    * [V. Couple important de désirs ](livre1/chapitre2/section5.md): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
+  * [Chapitre III - Rôle économique de la croyance](livre1/chapitre3/README.md)
+    * [I. Action des croyances sur les désirs, et réciproquement.](livre1/chapitre3/section1.md) Leurs combinaisons. La réclame et son évolution : la réclame acoustique d'abord, puis visuelle.
+    * [II. Comment naît et grandit la confiance en une nouveauté.](livre1/chapitre3/section2.md) Nos droits fondés sur nos _attentes._
+    * [III. Attente des demandes de la clientèle par le producteur ](livre1/chapitre3/section3.md): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
+  * [Chapitre IV - Les besoins.](livre1/chapitre4/README.md)
 
     I. [Besoins, combinaison de croyances et de désirs](#489878020016476-psycho_eco_t1_pt_I_chap_IV_I). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
 
@@ -46,7 +41,7 @@
 
     III. [Budgets des familles et des États, où cette périodicité s'exprime.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_III) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
 
-    [**Chapitre V**](#489878020016476-psycho_eco_t1_pt_I_chap_V)**. Les travaux.**
+  * [**Chapitre V**](#489878020016476-psycho_eco_t1_pt_I_chap_V)**. Les travaux.**
 
     I. [Définition du travail.](#489878020016476-psycho_eco_t1_pt_I_chap_V_I) Le travail et l'invention.
 
@@ -83,16 +78,14 @@
     VIII. [Ses méfaits.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_VIII) La liberté terrienne et la liberté monétaire ; le droit terrien et le droit monétaire.
 
     IX. [Loi des transformations monétaires ](#489878020016476-psycho_eco_t1_pt_I_chap_VI_IX): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
-
-    X. [Petits problèmes relatifs à la monnaie.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_X)
-
-  * [**Chapitre VII**](#489878020016476-psycho_eco_t1_pt_I_chap_VII)**. Le capital**
-    * I. [Définitions diverses du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_I) Son origine. Son caractère essentiel.
-    * II. [Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](#489878020016476-psycho_eco_t1_pt_I_chap_VII_II)Leurs manières très distinctes de s'accroître ou de périr.
-    III. [Deux causes de destruction du capital-invention.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_III)
-    IV. [Réfutation d'erreurs à ce sujet.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IV)
-    V. [L'appropriation collective du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_V) Machine et talent. Partage, entre capitaliste, ouvrier et public, des avantages de la machine.
-    VI. [Intérêt des capitaux.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VI) Le revenu sans travail.
-    VII. [Circulation du capital monétaire.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VII) Le cycle monétaire dans ses rapports avec le cycle des travaux et celui des besoins. Tendance à l'agrandissement de ces cycles et à l'acceptation de leur rotation.
-    * VIII. [Karl Marx et la rotation économique.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VIII)
-    * IX. [Le crédit, ses origines.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IX) Le prêt, antérieur peut-être à l'échange. Formes successives du prêt.
+    * X. [Petits problèmes relatifs à la monnaie.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_X)
+  * [Chapitre VII - Le capital](livre1/chapitre7/README.md)
+    * [I. Définitions diverses du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_I) Son origine. Son caractère essentiel.
+    * [II. Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](#489878020016476-psycho_eco_t1_pt_I_chap_VII_II)Leurs manières très distinctes de s'accroître ou de périr.
+    * [III. Deux causes de destruction du capital-invention.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_III)
+    * [IV. Réfutation d'erreurs à ce sujet.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IV)
+    * [V. L'appropriation collective du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_V) Machine et talent. Partage, entre capitaliste, ouvrier et public, des avantages de la machine.
+    * [VI. Intérêt des capitaux.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VI) Le revenu sans travail.
+    * [VII. Circulation du capital monétaire.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VII) Le cycle monétaire dans ses rapports avec le cycle des travaux et celui des besoins. Tendance à l'agrandissement de ces cycles et à l'acceptation de leur rotation.
+    * [VIII. Karl Marx et la rotation économique.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VIII)
+    * [IX. Le crédit, ses origines.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IX) Le prêt, antérieur peut-être à l'échange. Formes successives du prêt.
