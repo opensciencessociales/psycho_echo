@@ -34,51 +34,29 @@
     * [II. Comment naît et grandit la confiance en une nouveauté.](livre1/chapitre3/section2.md) Nos droits fondés sur nos _attentes._
     * [III. Attente des demandes de la clientèle par le producteur ](livre1/chapitre3/section3.md): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
   * [Chapitre IV - Les besoins.](livre1/chapitre4/README.md)
-
-    I. [Besoins, combinaison de croyances et de désirs](#489878020016476-psycho_eco_t1_pt_I_chap_IV_I). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
-
-    II. [Cycle individuel des besoins, l'habitude, et cycle collectif, la coutume.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_II) Comparaison avec le cycle des travaux.
-
-    III. [Budgets des familles et des États, où cette périodicité s'exprime.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_III) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
-
-  * [**Chapitre V**](#489878020016476-psycho_eco_t1_pt_I_chap_V)**. Les travaux.**
-
-    I. [Définition du travail.](#489878020016476-psycho_eco_t1_pt_I_chap_V_I) Le travail et l'invention.
-
-    II. [La fatigue et l'ennui, fatigue musculaire et fatigue nerveuse.](#489878020016476-psycho_eco_t1_pt_I_chap_V_II) Le remède à l'ennui. L'hérédité des professions ennuyeuses. La fatigue régie par une loi opposée à la loi de Weber.
-
-    III. [Le travail, de moins en moins fatigant, devient-il de moins en moins ennuyeux ?](#489878020016476-psycho_eco_t1_pt_I_chap_V_III) Chants du travail primitif.
-
-    IV. [Degrés inégaux de la _considération_ attachée aux divers travaux.](#489878020016476-psycho_eco_t1_pt_I_chap_V_IV) Considération des travaux, non toujours proportionnelle à leur utilité. Hausse et baisse alternatives, en Grèce, de l'estime des travaux manuels. Causes de ces variations en tout pays.
-
-    V. [Classification générale des travaux.](#489878020016476-psycho_eco_t1_pt_I_chap_V_V)
-
-    VI. [Transformations historiques du travail.](#489878020016476-psycho_eco_t1_pt_I_chap_V_VI)
-
-    VII. [Autres aperçus sur la périodicité des travaux.](#489878020016476-psycho_eco_t1_pt_I_chap_V_VII)
-
-    VIII. [Le loisir périodique, les vacances.](#489878020016476-psycho_eco_t1_pt_I_chap_V_VIII) Leur origine et leur extension.
-
-    [**Chapitre VI**](#489878020016476-psycho_eco_t1_pt_I_chap_VI)**. La monnaie**
-
-    I. [Définition](#489878020016476-psycho_eco_t1_pt_I_chap_VI_I). Comment a pu se produire ce caractère de désirabilité constante, universelle et indéfinie, qui est propre à la monnaie, et qui explique son échangeabilité universelle.
-
-    II. [Sa nature.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_II) Elle est économiquement ce que les mathématiques sont intellectuellement.
-
-    III. [Pourquoi elle ne sert pas de moyen d'échange aux valeurs-vérités.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_III)
-
-    IV. [Caractère tout subjectif de la monnaie.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_IV)
-
-    V. [Le pouvoir, le droit, l'argent.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_V)
-
-    VI. [La terre et l'argent](#489878020016476-psycho_eco_t1_pt_I_chap_VI_VI), ressemblances et différences entre leurs rôles économiques, entre leurs modes d'accroissement et de répartition.
-
-    VII. [Effets psychologiques du règne de l'argent ](#489878020016476-psycho_eco_t1_pt_I_chap_VI_VII); ses bienfaits, substitution des payements en argent aux payements en nature, facilités des voyages, etc.
-
-    VIII. [Ses méfaits.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_VIII) La liberté terrienne et la liberté monétaire ; le droit terrien et le droit monétaire.
-
-    IX. [Loi des transformations monétaires ](#489878020016476-psycho_eco_t1_pt_I_chap_VI_IX): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
-    * X. [Petits problèmes relatifs à la monnaie.](#489878020016476-psycho_eco_t1_pt_I_chap_VI_X)
+    * [I. Besoins, combinaison de croyances et de désirs](#489878020016476-psycho_eco_t1_pt_I_chap_IV_I). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
+    * [II. Cycle individuel des besoins, l'habitude, et cycle collectif, la coutume.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_II) Comparaison avec le cycle des travaux.
+    * [III. Budgets des familles et des États, où cette périodicité s'exprime.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_III) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
+  * [Chapitre V - Les travaux.](livre1/chapitre5/README.md)
+    * [I. Définition du travail.](livre1/chapitre5/section1.md) Le travail et l'invention.
+    * [II. La fatigue et l'ennui, fatigue musculaire et fatigue nerveuse.](livre1/chapitre5/section2.md) Le remède à l'ennui. L'hérédité des professions ennuyeuses. La fatigue régie par une loi opposée à la loi de Weber.
+    * [III. Le travail, de moins en moins fatigant, devient-il de moins en moins ennuyeux ?](livre1/chapitre5/section3.md) Chants du travail primitif.
+    * [IV. Degrés inégaux de la _considération_ attachée aux divers travaux.](livre1/chapitre5/section4.md) Considération des travaux, non toujours proportionnelle à leur utilité. Hausse et baisse alternatives, en Grèce, de l'estime des travaux manuels. Causes de ces variations en tout pays.
+    * [V. Classification générale des travaux.](livre1/chapitre5/section5.md)
+    * [VI. Transformations historiques du travail.](livre1/chapitre5/section6.md)
+    * [VII. Autres aperçus sur la périodicité des travaux.](livre1/chapitre5/section7.md)
+    * [VIII. Le loisir périodique, les vacances.](livre1/chapitre5/section8.md) Leur origine et leur extension.
+  * [Chapitre VI - La monnaie](livre1/chapitre6/README.md)
+    * [I. Définition](livre1/chapitre6/section1.md). Comment a pu se produire ce caractère de désirabilité constante, universelle et indéfinie, qui est propre à la monnaie, et qui explique son échangeabilité universelle.
+    * [II. Sa nature.](livre1/chapitre6/section2.md) Elle est économiquement ce que les mathématiques sont intellectuellement.
+    * [III. Pourquoi elle ne sert pas de moyen d'échange aux valeurs-vérités.](livre1/chapitre6/section3.md)
+    * [IV. Caractère tout subjectif de la monnaie.](livre1/chapitre6/section4.md)
+    * [V. Le pouvoir, le droit, l'argent.](livre1/chapitre6/section5.md)
+    * [VI. La terre et l'argent](livre1/chapitre6/section6.md), ressemblances et différences entre leurs rôles économiques, entre leurs modes d'accroissement et de répartition.
+    * [VII. Effets psychologiques du règne de l'argent ](livre1/chapitre6/section7.md); ses bienfaits, substitution des payements en argent aux payements en nature, facilités des voyages, etc.
+    * [VIII. Ses méfaits.](livre1/chapitre6/section8.md) La liberté terrienne et la liberté monétaire ; le droit terrien et le droit monétaire.
+    * [IX. Loi des transformations monétaires ](livre1/chapitre6/section9.md): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
+    * [X. Petits problèmes relatifs à la monnaie.](livre1/chapitre6/section10.md)
   * [Chapitre VII - Le capital](livre1/chapitre7/README.md)
     * [I. Définitions diverses du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_I) Son origine. Son caractère essentiel.
     * [II. Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](#489878020016476-psycho_eco_t1_pt_I_chap_VII_II)Leurs manières très distinctes de s'accroître ou de périr.
