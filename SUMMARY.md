@@ -58,15 +58,15 @@
     * [IX. Loi des transformations monétaires ](livre1/chapitre6/section9.md): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
     * [X. Petits problèmes relatifs à la monnaie.](livre1/chapitre6/section10.md)
   * [Chapitre VII - Le capital](livre1/chapitre7/README.md)
-    * [I. Définitions diverses du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_I) Son origine. Son caractère essentiel.
-    * [II. Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](#489878020016476-psycho_eco_t1_pt_I_chap_VII_II)Leurs manières très distinctes de s'accroître ou de périr.
-    * [III. Deux causes de destruction du capital-invention.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_III)
-    * [IV. Réfutation d'erreurs à ce sujet.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IV)
-    * [V. L'appropriation collective du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_V) Machine et talent. Partage, entre capitaliste, ouvrier et public, des avantages de la machine.
-    * [VI. Intérêt des capitaux.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VI) Le revenu sans travail.
-    * [VII. Circulation du capital monétaire.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VII) Le cycle monétaire dans ses rapports avec le cycle des travaux et celui des besoins. Tendance à l'agrandissement de ces cycles et à l'acceptation de leur rotation.
-    * [VIII. Karl Marx et la rotation économique.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VIII)
-    * [IX. Le crédit, ses origines.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IX) Le prêt, antérieur peut-être à l'échange. Formes successives du prêt.
+    * [I. Définitions diverses du capital.](livre1/chapitre7/section1.md) Son origine. Son caractère essentiel.
+    * [II. Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](livre1/chapitre7/section2.md)Leurs manières très distinctes de s'accroître ou de périr.
+    * [III. Deux causes de destruction du capital-invention.](livre1/chapitre7/section3.md)
+    * [IV. Réfutation d'erreurs à ce sujet.](livre1/chapitre7/section4.md)
+    * [V. L'appropriation collective du capital.](livre1/chapitre7/section5.md) Machine et talent. Partage, entre capitaliste, ouvrier et public, des avantages de la machine.
+    * [VI. Intérêt des capitaux.](livre1/chapitre7/section6.md) Le revenu sans travail.
+    * [VII. Circulation du capital monétaire.](livre1/chapitre7/section7.md) Le cycle monétaire dans ses rapports avec le cycle des travaux et celui des besoins. Tendance à l'agrandissement de ces cycles et à l'acceptation de leur rotation.
+    * [VIII. Karl Marx et la rotation économique.](livre1/chapitre7/section8.md)
+    * [IX. Le crédit, ses origines.](livre1/chapitre7/section9.md) Le prêt, antérieur peut-être à l'échange. Formes successives du prêt.
 * [Livre second - L'opposition économique](livre2/README.md)
   * [Chapitre I - Division du sujet](livre2/chapitre1/README.md)
   * [Chapitre II - Les prix (théorie de la valeur)](livre2/chapitre2/README.md)
@@ -79,109 +79,56 @@
     * [VII. Influence d'ordre logique.](livre2/chapitre2/section7.md)
     * [VIII. Les frais de production.](livre2/chapitre2/section8.md)
   * [Chapitre III - Les luttes (externes, de personne à personne)](livre2/chapitre3/README.md)
-  I. [Luttes de la production avec elle-même](#143633664585649-psycho_eco_t2_pt_II_chap_III_I) : d'abord, entre coproducteurs d'un même atelier.
-
-  II. [Puis, entre producteurs nationaux d'un même article (concurrence).](#143633664585649-psycho_eco_t2_pt_II_chap_III_II) Limites, causes, effets de la concurrence. Monopoles, trusts.
-
-  III. [Puis, entre producteurs nationaux et producteurs étrangers du même article.](#143633664585649-psycho_eco_t2_pt_II_chap_III_III) Libre échange et protection.
-
-  IV. [Spécialement, entre production nationale et production étrangère des armes.](#143633664585649-psycho_eco_t2_pt_II_chap_III_IV) L'industrie militaire, ses caractères et ses lois propres. Comparaison avec l'industrie religieuse.
-
-  V. [Enfin, entre producteurs d'articles hétérogènes.](#143633664585649-psycho_eco_t2_pt_II_chap_III_V) Loi des débouchés, question de luxe.
-
-  VI. [Conflits de la consommation avec elle-même.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VI) Lois somptuaires.
-
-  VII. [Luttes de la production avec la consommation.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VII)
-
-  VIII. [Conflits monétaires.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VIII)
-
-  [**Chapitre IV**](#143633664585649-psycho_eco_t2_pt_II_chap_IV)**. Les crises (_luttes aiguës)_**
-
-  I. [Les luttes aiguës entre coproducteurs : grèves.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_I) Grèves anciennes et nouvelles.
-
-  II. [Crises proprement dites; crises économiques comparées à crises politiques ou autres.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_II) Deux sortes de crises : crises-guerres et crises-chutes. Lieur cause.
-
-  III. [Crises-guerres de la consommation.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_III)
-
-  IV. [Crises-chutes.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_IV)
-
-  V. [Crises monétaires et commerciales.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_V) Leurs trois phases, d'après Juglar. Les découvertes de gisements aurifères et argentifères. Concurrence de deux métaux.
-
-  VI. [Où tendent les crises.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_VI)
-
-  [**Chapitre V**](#143633664585649-psycho_eco_t2_pt_II_chap_V)**. Les rythmes _(opposition de termes successifs)_**
-
-  I. [Critique de la loi de Spencer sur le rythme du mouvement.](#143633664585649-psycho_eco_t2_pt_II_chap_V_I) Idée de M. Poincaré. Rythmes oscillations (oppos.) et rythmes circulations (répétit.)
-
-  II. [Périodique alternance des époques de prospérité et de crise depuis le XIXe siècle](#143633664585649-psycho_eco_t2_pt_II_chap_V_II)
-
-  III. [Limitation et interprétation de cette périodicité.](#143633664585649-psycho_eco_t2_pt_II_chap_V_III)
-
-* [LIVRE TROISIÈME - L'ADAPTATION ÉCONOMIQUE](livre3/README.md)
-  [**Chapitre I**](#143633664585649-psycho_eco_t2_pt_III_chap_I)**. Division du sujet**
-
-  [**Chapitre II**](#143633664585649-psycho_eco_t2_pt_III_chap_II)**. L'imagination économique**
-
-  I. [Préliminaires ](#143633664585649-psycho_eco_t2_pt_III_chap_II_I); Second sens du mot _valeur_ (valeuremploi) valeur de production et de consommation et valeur d'échange.
-
-  II. [Conditions physiologiques, psychologiques et sociales de l'invention.](#143633664585649-psycho_eco_t2_pt_III_chap_II_II) Ribot, Faulhan. Son caractère déductif.
-
-  III. [Côté accidentel des inventions, complément de leur côté logique.](#143633664585649-psycho_eco_t2_pt_III_chap_II_III) Son importance historique.
-
-  IV. [_Imagination industrielle._](#143633664585649-psycho_eco_t2_pt_III_chap_II_IV)Ses subdivisions. Ses caractères. Comment elle adapte la nature à l'homme et les hommes les uns aux autres.
-
-  V. [Réponse à une objection de Sismondi.](#143633664585649-psycho_eco_t2_pt_III_chap_II_V) Invention industrielle toujours favorable aux consommateurs, pas toujours aux producteurs, du moins à ses débuts. Diminue la durée dit travail, mais non, finalement, le salaire, etc.
-
-  VI. [_Imagination commerciale._](#143633664585649-psycho_eco_t2_pt_III_chap_II_VI)Ses diverses espèces. Inventions locomotrices. Le besoin de locomotion. Chemins de fer, agents d'harmonisation économique ; sontils aussi des agents d'égalisation démocratique ? Substitution momentanée des aristocraties nationales aux aristocraties individuelles.
-
-  [**Chapitre III**](#143633664585649-psycho_eco_t2_pt_III_chap_III)**. Les développements de l'imagination économique**
-
-  I. [Quatre points de départ des évolutions économiques, d'après Gumplowicz.](#143633664585649-psycho_eco_t2_pt_III_chap_III_I) Critique de son idée.
-
-  II. [Généralisations partielles relatives aux voies habituellement suivies par le génie inventif.](#143633664585649-psycho_eco_t2_pt_III_chap_III_II) Sa direction principale vers la captation des forces animales d'abord, puis végétales, enfin physico-chimiques. Exemples.
-
-  III. [Agrandissement parallèle](#143633664585649-psycho_eco_t2_pt_III_chap_III_III) (les luttes et des harmonies. Tendance du génie inventif à se tourner vers les formes d'association.
-
-  [**Chapitre IV**](#143633664585649-psycho_eco_t2_pt_III_chap_IV)**. La propriété**
-
-  I. [La propriété considérée comme moyen d'adaptation négative, et aussi positive.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_I)
-
-  II. [Problème posé par l'inégalité des propriétés nationales.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_II)
-
-  III. [La rente du soi et les profits de l'industrie.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_III)
-
-  IV. [Nationalisation ou municipalisation de la propriété?](#143633664585649-psycho_eco_t2_pt_III_chap_IV_IV)
-
-  V. [Transformations passées du droit de propriété soit collective, soit individuelle.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_V) Causes de ces transformations.
-
-  VI. [Transformations actuelles, et leur tendance.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_VI)
-
-  [**Chapitre V**](#143633664585649-psycho_eco_t2_pt_III_chap_V)**. L'échange**
-
-  I. [Documents inter-psychologiques à puiser](#143633664585649-psycho_eco_t2_pt_III_chap_V_I) : 1˚ dans les rapports économiques et spontanés des enfants, dans les cours de collèges; 2˚ dans ceux des sauvages avec les premiers navigateurs qui les découvraient.
-
-  II. [Voyages de Christophe Colomb et d'autres grands marins.](#143633664585649-psycho_eco_t2_pt_III_chap_V_II) Le don et le vol précédant toujours l'échange. Danses et chants, prélude de tout marché.
-
-  III. [Transformations de l'échange à travers les trois formes domestique, urbaine et nationale de l'économie.](#143633664585649-psycho_eco_t2_pt_III_chap_V_III) La vie urbaine et le commerce extérieur.
-
-  IV. [Le libre échange de nation à nation.](#143633664585649-psycho_eco_t2_pt_III_chap_V_IV)
-
-  V. [Rôle et place de l'échange parmi les autres formes de la répartition et de l'adaptation des richesses.](#143633664585649-psycho_eco_t2_pt_III_chap_V_V)
-
-  [**Chapitre VI**](#143633664585649-psycho_eco_t2_pt_III_chap_VI)**. L'association**
-
-  I. [Formes primitives de l'association, antérieures à l'échange et à la division du travail.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_I) « Chambres à filer » allemandes. Trois degrés de la division du travail.
-
-  II. [Avantages de l'association.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_II) L'irrigation de l'Égypte. Exemples d'une division systématique et autoritaire qui se transforme en une division du travail en apparence spontanée. Puis l'inverse.
-
-  III. [Corporations du moyen âge.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_III) Tendances nouvelles des confréries du XVe siècle.
-
-  IV. [Besoins nouveaux auxquels les nouvelles formes d'association doivent répondre.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_IV) Leur succès ou leur insuccès suivant qu'elles y répondent ou non. Sociétés de publicité, bureaux de placement, bourses du travail. Transformations de l'embauchage. Sociétés d'assurance, mutualités. Essais de production coopérative agricole.
-
-  V. [Toute association est sortie du cerveau d'un homme.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_V)
-
-  VI. [Classification des associations en quatre catégories.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_VI) Vues d'avenir. La fin du monde, au sens nouveau.
-
-  [**Chapitre FINAL**](#143633664585649-psycho_eco_t2_pt_III_chap_VII)**. La population**
-
-  Esquisse d'une étude du problème de la population aux trois points de vue de sa propagation, de ses conflits belliqueux ou économiques, et de son adaptation aux circonstances géographiques ou historiques.
+    * [I. Luttes de la production avec elle-même](livre2/chapitre3/section1.md) : d'abord, entre coproducteurs d'un même atelier.
+    * [II. Puis, entre producteurs nationaux d'un même article (concurrence).](livre2/chapitre3/section2.md) Limites, causes, effets de la concurrence. Monopoles, trusts.
+    * [III. Puis, entre producteurs nationaux et producteurs étrangers du même article.](livre2/chapitre3/section3.md) Libre échange et protection.
+    * [IV. Spécialement, entre production nationale et production étrangère des armes.](livre2/chapitre3/section4.md) L'industrie militaire, ses caractères et ses lois propres. Comparaison avec l'industrie religieuse.
+    * [V. Enfin, entre producteurs d'articles hétérogènes.](livre2/chapitre3/section5.md) Loi des débouchés, question de luxe.
+    * [VI. Conflits de la consommation avec elle-même.](livre2/chapitre3/section6.md) Lois somptuaires.
+    * [VII. Luttes de la production avec la consommation.](livre2/chapitre3/section7.md)
+    * [VIII. Conflits monétaires.](livre2/chapitre3/section8.md)
+  * [Chapitre IV - Les crises (_luttes aiguës)_](livre2/chapitre4/README.md)
+    * [I. Les luttes aiguës entre coproducteurs : grèves.](livre2/chapitre4/section1.md) Grèves anciennes et nouvelles.
+    * [II. Crises proprement dites; crises économiques comparées à crises politiques ou autres.](livre2/chapitre4/section2.md) Deux sortes de crises : crises-guerres et crises-chutes. Lieur cause.
+    * [III. Crises-guerres de la consommation.](livre2/chapitre4/section3.md)
+    * [IV. Crises-chutes.](livre2/chapitre4/section4.md)
+    * [V. Crises monétaires et commerciales.](livre2/chapitre4/section5.md) Leurs trois phases, d'après Juglar. Les découvertes de gisements aurifères et argentifères. Concurrence de deux métaux.
+    * [VI. Où tendent les crises.](livre2/chapitre4/section6.md)
+  * [Chapitre V - Les rythmes _(opposition de termes successifs)_](livre2/chapitre5/README.md)
+    * [I. Critique de la loi de Spencer sur le rythme du mouvement.](livre2/chapitre5/section1.md) Idée de M. Poincaré. Rythmes oscillations (oppos.) et rythmes circulations (répétit.)
+    * [II. Périodique alternance des époques de prospérité et de crise depuis le XIXe siècle](livre2/chapitre5/section2.md)
+    * [III. Limitation et interprétation de cette périodicité.](livre2/chapitre5/section3.md)
+* [Livre troisième - L'Adaptation économique](livre3/README.md)
+  * [Chapitre I - Division du sujet](livre3/chapitre1/README.md)
+  * [Chapitre II - L'imagination économique](livre3/chapitre2/README.md)
+    * [I. Préliminaires ](livre3/chapitre2/section1.md); Second sens du mot _valeur_ (valeuremploi) valeur de production et de consommation et valeur d'échange.
+    * [II. Conditions physiologiques, psychologiques et sociales de l'invention.](livre3/chapitre2/section2.md) Ribot, Faulhan. Son caractère déductif.
+    * [III. Côté accidentel des inventions, complément de leur côté logique.](livre3/chapitre2/section3.md) Son importance historique.
+    * [IV. _Imagination industrielle._](livre3/chapitre2/section4.md)Ses subdivisions. Ses caractères. Comment elle adapte la nature à l'homme et les hommes les uns aux autres.
+    * [V. Réponse à une objection de Sismondi.](livre3/chapitre2/section5.md) Invention industrielle toujours favorable aux consommateurs, pas toujours aux producteurs, du moins à ses débuts. Diminue la durée dit travail, mais non, finalement, le salaire, etc.
+    * [VI. _Imagination commerciale._](livre3/chapitre2/section6.md) Ses diverses espèces. Inventions locomotrices. Le besoin de locomotion. Chemins de fer, agents d'harmonisation économique ; sont-ils aussi des agents d'égalisation démocratique ? Substitution momentanée des aristocraties nationales aux aristocraties individuelles.
+  * [Chapitre III - Les développements de l'imagination économique](livre3/chapitre3/README.md)
+    * [I. Quatre points de départ des évolutions économiques, d'après Gumplowicz.](livre3/chapitre3/section1.md) Critique de son idée.
+    * [II. Généralisations partielles relatives aux voies habituellement suivies par le génie inventif.](livre3/chapitre3/section2.md) Sa direction principale vers la captation des forces animales d'abord, puis végétales, enfin physico-chimiques. Exemples.
+    * [III. Agrandissement parallèle](livre3/chapitre3/section3.md) (les luttes et des harmonies. Tendance du génie inventif à se tourner vers les formes d'association.
+  * [Chapitre IV - La Propriété](livre3/chapitre4/README.md)
+    * [I. La propriété considérée comme moyen d'adaptation négative, et aussi positive.](livre3/chapitre4/section1.md)
+    * [II. Problème posé par l'inégalité des propriétés nationales.](livre3/chapitre4/section2.md)
+    * [III. La rente du soi et les profits de l'industrie.](livre3/chapitre4/section3.md)
+    * [IV. Nationalisation ou municipalisation de la propriété?](livre3/chapitre4/section4.md)
+    * [V. Transformations passées du droit de propriété soit collective, soit individuelle.](livre3/chapitre4/section5.md) Causes de ces transformations.
+    * [VI. Transformations actuelles, et leur tendance.](livre3/chapitre4/section6.md)
+  * [Chapitre V - L'échange](livre3/chapitre5/README.md)
+    * [I. Documents inter-psychologiques à puiser](livre3/chapitre5/section1.md) : 1˚ dans lesI.  rapports économiques et spontanés des enfants, dans les cours de collèges; 2˚ dans ceux des sauvages avec les premiers navigateurs qui les découvraient.
+    * [II. Voyages de Christophe Colomb et d'autres grands marins.](livre3/chapitre5/section2.md) Le don et le vol précédant toujours l'échange. Danses et chants, prélude de tout marché.
+    * [III. Transformations de l'échange à travers les trois formes domestique, urbaine et nationale de l'économie.](livre3/chapitre5/section3.md) La vie urbaine et le commerce extérieur.
+    * [IV. Le libre échange de nation à nation.](livre3/chapitre5/section4.md)
+    * [V. Rôle et place de l'échange parmi les autres formes de la répartition et de l'adaptation des richesses.](livre3/chapitre5/section5.md)
+  * [Chapitre VI - L'association](livre3/chapitre6/README.md)
+    * [I. Formes primitives de l'association, antérieures à l'échange et à la division du travail.](livre3/chapitre6/section1.md) « Chambres à filer » allemandes. Trois degrés de la division du travail.
+    * [II. Avantages de l'association.](livre3/chapitre6/section2.md) L'irrigation de l'Égypte. Exemples d'une division systématique et autoritaire qui se transforme en une division du travail en apparence spontanée. Puis l'inverse.
+    * [III. Corporations du moyen âge.](livre3/chapitre6/section3.md) Tendances nouvelles des confréries du XVe siècle.
+    * [IV. Besoins nouveaux auxquels les nouvelles formes d'association doivent répondre.](livre3/chapitre6/section4.md) Leur succès ou leur insuccès suivant qu'elles y répondent ou non. Sociétés de publicité, bureaux de placement, bourses du travail. Transformations de l'embauchage. Sociétés d'assurance, mutualités. Essais de production coopérative agricole.
+    * [V. Toute association est sortie du cerveau d'un homme.](livre3/chapitre6/section5.md)
+    * [VI. Classification des associations en quatre catégories.](livre3/chapitre6/section6.md) Vues d'avenir. La fin du monde, au sens nouveau.
+  * [Chapitre FINAL - La Population](livre3/chapitre7/README.md) Esquisse d'une étude du problème de la population aux trois points de vue de sa propagation, de ses conflits belliqueux ou économiques, et de son adaptation aux circonstances géographiques ou historiques.
