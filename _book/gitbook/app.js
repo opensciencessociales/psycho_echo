@@ -265,7 +265,7 @@ jQuery.extend({
 
 	isNumeric: function( obj ) {
 		// parseFloat NaNs numeric-cast false positives (null|true|false|"")
-		// ...but misinterprets leading-number strings, particularly hex literals ("0x...")
+		// …but misinterprets leading-number strings, particularly hex literals ("0x…")
 		// subtraction forces infinities to NaN
 		// adding 1 corrects loss of precision from parseFloat (#15100)
 		return !jQuery.isArray( obj ) && (obj - parseFloat( obj ) + 1) >= 0;
@@ -1563,9 +1563,9 @@ Expr = Sizzle.selectors = {
 
 		"CHILD": function( match ) {
 			/* matches from matchExpr["CHILD"]
-				1 type (only|nth|...)
+				1 type (only|nth|…)
 				2 what (child|of-type)
-				3 argument (even|odd|\d*|\d*n([+-]\d+)?|...)
+				3 argument (even|odd|\d*|\d*n([+-]\d+)?|…)
 				4 xn-component of xn+y argument ([+-]?\d*n|)
 				5 sign of xn-component
 				6 x of xn-component
@@ -1705,7 +1705,7 @@ Expr = Sizzle.selectors = {
 
 						start = [ forward ? parent.firstChild : parent.lastChild ];
 
-						// non-xml :nth-child(...) stores cache data on `parent`
+						// non-xml :nth-child(…) stores cache data on `parent`
 						if ( forward && useCache ) {
 							// Seek `elem` from a previously-cached index
 							outerCache = parent[ expando ] || (parent[ expando ] = {});
@@ -1730,7 +1730,7 @@ Expr = Sizzle.selectors = {
 						} else if ( useCache && (cache = (elem[ expando ] || (elem[ expando ] = {}))[ type ]) && cache[0] === dirruns ) {
 							diff = cache[1];
 
-						// xml :nth-child(...) or :nth-last-child(...) or :nth(-last)?-of-type(...)
+						// xml :nth-child(…) or :nth-last-child(…) or :nth(-last)?-of-type(…)
 						} else {
 							// Use the same loop as above to seek `elem` from the start
 							while ( (node = ++nodeIndex && node && node[ dir ] ||
@@ -2210,10 +2210,10 @@ function setMatcher( preFilter, selector, matcher, postFilter, postFinder, postS
 				// If we have a postFinder, or filtered seed, or non-seed postFilter or preexisting results,
 				postFinder || ( seed ? preFilter : preexisting || postFilter ) ?
 
-					// ...intermediate processing is necessary
+					// …intermediate processing is necessary
 					[] :
 
-					// ...otherwise use results directly
+					// …otherwise use results directly
 					results :
 				matcherIn;
 
@@ -2773,7 +2773,7 @@ var rootjQuery,
 							if ( jQuery.isFunction( this[ match ] ) ) {
 								this[ match ]( context[ match ] );
 
-							// ...and otherwise set as attributes
+							// …and otherwise set as attributes
 							} else {
 								this.attr( match, context[ match ] );
 							}
@@ -2799,7 +2799,7 @@ var rootjQuery,
 					return this;
 				}
 
-			// HANDLE: $(expr, $(...))
+			// HANDLE: $(expr, $(…))
 			} else if ( !context || context.jquery ) {
 				return ( context || rootjQuery ).find( selector );
 
@@ -3318,7 +3318,7 @@ jQuery.extend({
 	},
 
 	// Deferred helper
-	when: function( subordinate /* , ..., subordinateN */ ) {
+	when: function( subordinate /* , …, subordinateN */ ) {
 		var i = 0,
 			resolveValues = slice.call( arguments ),
 			length = resolveValues.length,
@@ -3492,7 +3492,7 @@ var access = jQuery.access = function( elems, fn, key, value, chainable, emptyGe
 				fn.call( elems, value );
 				fn = null;
 
-			// ...except when executing function values
+			// …except when executing function values
 			} else {
 				bulk = fn;
 				fn = function( elem, key, value ) {
@@ -3667,7 +3667,7 @@ Data.prototype = {
 		} else {
 			// Support array or space separated string of keys
 			if ( jQuery.isArray( key ) ) {
-				// If "name" is an array of keys...
+				// If "name" is an array of keys…
 				// When data is initially created, via ("key", "val") signature,
 				// keys will be converted to camelCase.
 				// Since there is no way to tell _how_ a key was added, remove
@@ -3851,7 +3851,7 @@ jQuery.fn.extend({
 				return;
 			}
 
-			// Set the data...
+			// Set the data…
 			this.each(function() {
 				// First, attempt to store a copy or reference of any
 				// data that might've been store with a camelCased key.
@@ -3859,10 +3859,10 @@ jQuery.fn.extend({
 
 				// For HTML5 data-* attribute interop, we have to
 				// store property names with dashes in a camelCase form.
-				// This might not apply to all properties...*
+				// This might not apply to all properties…*
 				data_user.set( this, camelKey, value );
 
-				// *... In the case of properties that might _actually_
+				// *… In the case of properties that might _actually_
 				// have dashes, we need to also store a copy of that
 				// unchanged property.
 				if ( key.indexOf("-") !== -1 && data !== undefined ) {
@@ -9242,7 +9242,7 @@ return jQuery;
 
   /** Used as default options for `_.trunc`. */
   var DEFAULT_TRUNC_LENGTH = 30,
-      DEFAULT_TRUNC_OMISSION = '...';
+      DEFAULT_TRUNC_OMISSION = '…';
 
   /** Used to detect when a function becomes hot. */
   var HOT_COUNT = 150,
@@ -13736,7 +13736,7 @@ return jQuery;
      * @memberOf _
      * @category Array
      * @param {Array} array The array to inspect.
-     * @param {...Array} [values] The arrays of values to exclude.
+     * @param {…Array} [values] The arrays of values to exclude.
      * @returns {Array} Returns the new array of filtered values.
      * @example
      *
@@ -14208,7 +14208,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Array
-     * @param {...Array} [arrays] The arrays to inspect.
+     * @param {…Array} [arrays] The arrays to inspect.
      * @returns {Array} Returns the new array of shared values.
      * @example
      * _.intersection([1, 2], [4, 2], [2, 1]);
@@ -14332,7 +14332,7 @@ return jQuery;
      * @memberOf _
      * @category Array
      * @param {Array} array The array to modify.
-     * @param {...*} [values] The values to remove.
+     * @param {…*} [values] The values to remove.
      * @returns {Array} Returns `array`.
      * @example
      *
@@ -14375,7 +14375,7 @@ return jQuery;
      * @memberOf _
      * @category Array
      * @param {Array} array The array to modify.
-     * @param {...(number|number[])} [indexes] The indexes of elements to remove,
+     * @param {…(number|number[])} [indexes] The indexes of elements to remove,
      *  specified as individual indexes or arrays of indexes.
      * @returns {Array} Returns the new array of removed elements.
      * @example
@@ -14762,7 +14762,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Array
-     * @param {...Array} [arrays] The arrays to inspect.
+     * @param {…Array} [arrays] The arrays to inspect.
      * @returns {Array} Returns the new array of combined values.
      * @example
      *
@@ -14923,7 +14923,7 @@ return jQuery;
      * @memberOf _
      * @category Array
      * @param {Array} array The array to filter.
-     * @param {...*} [values] The values to exclude.
+     * @param {…*} [values] The values to exclude.
      * @returns {Array} Returns the new array of filtered values.
      * @example
      *
@@ -14943,7 +14943,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Array
-     * @param {...Array} [arrays] The arrays to inspect.
+     * @param {…Array} [arrays] The arrays to inspect.
      * @returns {Array} Returns the new array of values.
      * @example
      *
@@ -14973,7 +14973,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Array
-     * @param {...Array} [arrays] The arrays to process.
+     * @param {…Array} [arrays] The arrays to process.
      * @returns {Array} Returns the new array of grouped elements.
      * @example
      *
@@ -15030,7 +15030,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Array
-     * @param {...Array} [arrays] The arrays to process.
+     * @param {…Array} [arrays] The arrays to process.
      * @param {Function} [iteratee] The function to combine grouped values.
      * @param {*} [thisArg] The `this` binding of `iteratee`.
      * @returns {Array} Returns the new array of grouped elements.
@@ -15206,7 +15206,7 @@ return jQuery;
      * @name concat
      * @memberOf _
      * @category Chain
-     * @param {...*} [values] The values to concatenate.
+     * @param {…*} [values] The values to concatenate.
      * @returns {Array} Returns the new concatenated array.
      * @example
      *
@@ -15349,7 +15349,7 @@ return jQuery;
      * @memberOf _
      * @category Collection
      * @param {Array|Object|string} collection The collection to iterate over.
-     * @param {...(number|number[]|string|string[])} [props] The property names
+     * @param {…(number|number[]|string|string[])} [props] The property names
      *  or indexes of elements to pick, specified individually or in arrays.
      * @returns {Array} Returns the new array of picked elements.
      * @example
@@ -15839,7 +15839,7 @@ return jQuery;
      * @param {Array|Object|string} collection The collection to iterate over.
      * @param {Array|Function|string} path The path of the method to invoke or
      *  the function invoked per iteration.
-     * @param {...*} [args] The arguments to invoke the method with.
+     * @param {…*} [args] The arguments to invoke the method with.
      * @returns {Array} Returns the array of results.
      * @example
      *
@@ -16344,7 +16344,7 @@ return jQuery;
      * @memberOf _
      * @category Collection
      * @param {Array|Object|string} collection The collection to iterate over.
-     * @param {...(Function|Function[]|Object|Object[]|string|string[])} iteratees
+     * @param {…(Function|Function[]|Object|Object[]|string|string[])} iteratees
      *  The iteratees to sort by, specified as individual values or arrays of values.
      * @returns {Array} Returns the new sorted array.
      * @example
@@ -16599,7 +16599,7 @@ return jQuery;
      * @category Function
      * @param {Function} func The function to bind.
      * @param {*} thisArg The `this` binding of `func`.
-     * @param {...*} [partials] The arguments to be partially applied.
+     * @param {…*} [partials] The arguments to be partially applied.
      * @returns {Function} Returns the new bound function.
      * @example
      *
@@ -16639,7 +16639,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Object} object The object to bind and assign the bound methods to.
-     * @param {...(string|string[])} [methodNames] The object method names to bind,
+     * @param {…(string|string[])} [methodNames] The object method names to bind,
      *  specified as individual method names or arrays of method names.
      * @returns {Object} Returns `object`.
      * @example
@@ -16685,7 +16685,7 @@ return jQuery;
      * @category Function
      * @param {Object} object The object the method belongs to.
      * @param {string} key The key of the method.
-     * @param {...*} [partials] The arguments to be partially applied.
+     * @param {…*} [partials] The arguments to be partially applied.
      * @returns {Function} Returns the new bound function.
      * @example
      *
@@ -16858,10 +16858,10 @@ return jQuery;
      *   }
      * }, ['delete']);
      *
-     * // ...at some point `models.todo` is changed
+     * // …at some point `models.todo` is changed
      * models.todo.completed = true;
      *
-     * // ...before 1 second has passed `models.todo` is deleted
+     * // …before 1 second has passed `models.todo` is deleted
      * // which cancels the debounced `todoChanges` call
      * delete models.todo;
      */
@@ -16981,7 +16981,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Function} func The function to defer.
-     * @param {...*} [args] The arguments to invoke the function with.
+     * @param {…*} [args] The arguments to invoke the function with.
      * @returns {number} Returns the timer id.
      * @example
      *
@@ -17003,7 +17003,7 @@ return jQuery;
      * @category Function
      * @param {Function} func The function to delay.
      * @param {number} wait The number of milliseconds to delay invocation.
-     * @param {...*} [args] The arguments to invoke the function with.
+     * @param {…*} [args] The arguments to invoke the function with.
      * @returns {number} Returns the timer id.
      * @example
      *
@@ -17024,7 +17024,7 @@ return jQuery;
      * @static
      * @memberOf _
      * @category Function
-     * @param {...Function} [funcs] Functions to invoke.
+     * @param {…Function} [funcs] Functions to invoke.
      * @returns {Function} Returns the new function.
      * @example
      *
@@ -17046,7 +17046,7 @@ return jQuery;
      * @memberOf _
      * @alias backflow, compose
      * @category Function
-     * @param {...Function} [funcs] Functions to invoke.
+     * @param {…Function} [funcs] Functions to invoke.
      * @returns {Function} Returns the new function.
      * @example
      *
@@ -17139,7 +17139,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Function} func The function to wrap.
-     * @param {...(Function|Function[])} [transforms] The functions to transform
+     * @param {…(Function|Function[])} [transforms] The functions to transform
      * arguments, specified as individual functions or arrays of functions.
      * @returns {Function} Returns the new function.
      * @example
@@ -17241,7 +17241,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Function} func The function to partially apply arguments to.
-     * @param {...*} [partials] The arguments to be partially applied.
+     * @param {…*} [partials] The arguments to be partially applied.
      * @returns {Function} Returns the new partially applied function.
      * @example
      *
@@ -17274,7 +17274,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Function} func The function to partially apply arguments to.
-     * @param {...*} [partials] The arguments to be partially applied.
+     * @param {…*} [partials] The arguments to be partially applied.
      * @returns {Function} Returns the new partially applied function.
      * @example
      *
@@ -17303,7 +17303,7 @@ return jQuery;
      * @memberOf _
      * @category Function
      * @param {Function} func The function to rearrange arguments for.
-     * @param {...(number|number[])} indexes The arranged argument indexes,
+     * @param {…(number|number[])} indexes The arranged argument indexes,
      *  specified as individual indexes or arrays of indexes.
      * @returns {Function} Returns the new function.
      * @example
@@ -18348,7 +18348,7 @@ return jQuery;
      * @memberOf _
      * @category Object
      * @param {Object} object The destination object.
-     * @param {...Object} [sources] The source objects.
+     * @param {…Object} [sources] The source objects.
      * @param {Function} [customizer] The function to customize assigned values.
      * @param {*} [thisArg] The `this` binding of `customizer`.
      * @returns {Object} Returns `object`.
@@ -18400,7 +18400,7 @@ return jQuery;
      * @alias extend
      * @category Object
      * @param {Object} object The destination object.
-     * @param {...Object} [sources] The source objects.
+     * @param {…Object} [sources] The source objects.
      * @param {Function} [customizer] The function to customize assigned values.
      * @param {*} [thisArg] The `this` binding of `customizer`.
      * @returns {Object} Returns `object`.
@@ -18476,7 +18476,7 @@ return jQuery;
      * @memberOf _
      * @category Object
      * @param {Object} object The destination object.
-     * @param {...Object} [sources] The source objects.
+     * @param {…Object} [sources] The source objects.
      * @returns {Object} Returns `object`.
      * @example
      *
@@ -18495,7 +18495,7 @@ return jQuery;
      * @memberOf _
      * @category Object
      * @param {Object} object The destination object.
-     * @param {...Object} [sources] The source objects.
+     * @param {…Object} [sources] The source objects.
      * @returns {Object} Returns `object`.
      * @example
      *
@@ -18730,7 +18730,7 @@ return jQuery;
      * @example
      *
      * _.functions(_);
-     * // => ['after', 'ary', 'assign', ...]
+     * // => ['after', 'ary', 'assign', …]
      */
     function functions(object) {
       return baseFunctions(object, keysIn(object));
@@ -19015,7 +19015,7 @@ return jQuery;
      * @memberOf _
      * @category Object
      * @param {Object} object The source object.
-     * @param {Function|...(string|string[])} [predicate] The function invoked per
+     * @param {Function|…(string|string[])} [predicate] The function invoked per
      *  iteration or property names to omit, specified as individual property
      *  names or arrays of property names.
      * @param {*} [thisArg] The `this` binding of `predicate`.
@@ -19084,7 +19084,7 @@ return jQuery;
      * @memberOf _
      * @category Object
      * @param {Object} object The source object.
-     * @param {Function|...(string|string[])} [predicate] The function invoked per
+     * @param {Function|…(string|string[])} [predicate] The function invoked per
      *  iteration or property names to pick, specified as individual property
      *  names or arrays of property names.
      * @param {*} [thisArg] The `this` binding of `predicate`.
@@ -20129,7 +20129,7 @@ return jQuery;
     /**
      * Truncates `string` if it's longer than the given maximum string length.
      * The last characters of the truncated string are replaced with the omission
-     * string which defaults to "...".
+     * string which defaults to "…".
      *
      * @static
      * @memberOf _
@@ -20137,34 +20137,34 @@ return jQuery;
      * @param {string} [string=''] The string to truncate.
      * @param {Object|number} [options] The options object or maximum string length.
      * @param {number} [options.length=30] The maximum string length.
-     * @param {string} [options.omission='...'] The string to indicate text is omitted.
+     * @param {string} [options.omission='…'] The string to indicate text is omitted.
      * @param {RegExp|string} [options.separator] The separator pattern to truncate to.
      * @param- {Object} [guard] Enables use as a callback for functions like `_.map`.
      * @returns {string} Returns the truncated string.
      * @example
      *
      * _.trunc('hi-diddly-ho there, neighborino');
-     * // => 'hi-diddly-ho there, neighbo...'
+     * // => 'hi-diddly-ho there, neighbo…'
      *
      * _.trunc('hi-diddly-ho there, neighborino', 24);
-     * // => 'hi-diddly-ho there, n...'
+     * // => 'hi-diddly-ho there, n…'
      *
      * _.trunc('hi-diddly-ho there, neighborino', {
      *   'length': 24,
      *   'separator': ' '
      * });
-     * // => 'hi-diddly-ho there,...'
+     * // => 'hi-diddly-ho there,…'
      *
      * _.trunc('hi-diddly-ho there, neighborino', {
      *   'length': 24,
      *   'separator': /,? +/
      * });
-     * // => 'hi-diddly-ho there...'
+     * // => 'hi-diddly-ho there…'
      *
      * _.trunc('hi-diddly-ho there, neighborino', {
-     *   'omission': ' [...]'
+     *   'omission': ' […]'
      * });
-     * // => 'hi-diddly-ho there, neig [...]'
+     * // => 'hi-diddly-ho there, neig […]'
      */
     function trunc(string, options, guard) {
       if (guard && isIterateeCall(string, options, guard)) {
@@ -20452,7 +20452,7 @@ return jQuery;
      * @memberOf _
      * @category Utility
      * @param {Array|string} path The path of the method to invoke.
-     * @param {...*} [args] The arguments to invoke the method with.
+     * @param {…*} [args] The arguments to invoke the method with.
      * @returns {Function} Returns the new function.
      * @example
      *
@@ -20482,7 +20482,7 @@ return jQuery;
      * @memberOf _
      * @category Utility
      * @param {Object} object The object to query.
-     * @param {...*} [args] The arguments to invoke the method with.
+     * @param {…*} [args] The arguments to invoke the method with.
      * @returns {Function} Returns the new function.
      * @example
      *
@@ -22649,7 +22649,7 @@ var splitPath = function(filename) {
   return splitPathRe.exec(filename).slice(1);
 };
 
-// path.resolve([from ...], to)
+// path.resolve([from …], to)
 // posix version
 exports.resolve = function() {
   var resolvedPath = '',
@@ -24539,7 +24539,7 @@ function handleNavigation(relativeUrl, push) {
         var $pageBody = $page.find('.book');
 
         // Merge heads
-        // !! Warning !!: we only update necessary portions to avoid strange behavior (page flickering etc ...)
+        // !! Warning !!: we only update necessary portions to avoid strange behavior (page flickering etc …)
 
         // Update title
         document.title = $pageHead.find('title').text();

@@ -21,43 +21,43 @@
   * [Chapitre IV - Coup d'œil historique](partie_preliminaire/chapitre4/README.md)
     * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.](partie_preliminaire/chapitre4/section1.md) Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
     * II. [Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
-* [Livre premier - La répétition économique](tome1/README.md)
-  * [Chapitre I - Division du sujet](tome1/chapitre1/README.md)
-  * [Chapitre II - Rôle économique du désir](tome1/chapitre2/README.md)
-    * [I. Distinction nette des aspects différents](tome1/chapitre2/section1.md) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
-    * [II. Le bonheur, rotation périodique de désirs enchaînés.](tome1/chapitre2/section2.md) Courbes fermées et courbes ouvertes de désirs.
-    * [III. Naissance des désirs, leur propagation, leurs luttes.](tome1/chapitre2/section3.md)
-    * [IV. Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](tome1/chapitre2/section4.md) Désirs passifs et désirs actifs.
-    * [V. Couple important de désirs ](tome1/chapitre2/section5.md): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
-  * [Chapitre III - Rôle économique de la croyance](tome1/chapitre3/README.md)
-    * [I. Action des croyances sur les désirs, et réciproquement.](tome1/chapitre3/section1.md) Leurs combinaisons. La réclame et son évolution : la réclame acoustique d'abord, puis visuelle.
-    * [II. Comment naît et grandit la confiance en une nouveauté.](tome1/chapitre3/section2.md) Nos droits fondés sur nos _attentes._
-    * [III. Attente des demandes de la clientèle par le producteur ](tome1/chapitre3/section3.md): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
-  * [Chapitre IV - Les besoins.](tome1/chapitre4/README.md)
-    * [I. Besoins, combinaison de croyances et de désirs](#489878020016476-psycho_eco_t1_pt_I_chap_IV_I). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
+* [Livre premier - La répétition économique](livre1/README.md)
+  * [Chapitre I - Division du sujet](livre1/chapitre1/README.md)
+  * [Chapitre II - Rôle économique du désir](livre1/chapitre2/README.md)
+    * [I. Distinction nette des aspects différents](livre1/chapitre2/section1.md) sous lesquels la morale, la jurisprudence, la politique (branches diverses de la téléologie sociale) embrassent l'ensemble des désirs humains (et non chacun des désirs spéciaux).
+    * [II. Le bonheur, rotation périodique de désirs enchaînés.](livre1/chapitre2/section2.md) Courbes fermées et courbes ouvertes de désirs.
+    * [III. Naissance des désirs, leur propagation, leurs luttes.](livre1/chapitre2/section3.md)
+    * [IV. Distinction entre les désirs qui, en se propageant, se fortifient, et ceux qui, en se propageant, s'affaiblissent.](livre1/chapitre2/section4.md) Désirs passifs et désirs actifs.
+    * [V. Couple important de désirs ](livre1/chapitre2/section5.md): l_'offre_ et la _demande._ An sens objectif, stérilité, et, au sens subjectif, utilité de cette distinction.
+  * [Chapitre III - Rôle économique de la croyance](livre1/chapitre3/README.md)
+    * [I. Action des croyances sur les désirs, et réciproquement.](livre1/chapitre3/section1.md) Leurs combinaisons. La réclame et son évolution : la réclame acoustique d'abord, puis visuelle.
+    * [II. Comment naît et grandit la confiance en une nouveauté.](livre1/chapitre3/section2.md) Nos droits fondés sur nos _attentes._
+    * [III. Attente des demandes de la clientèle par le producteur ](livre1/chapitre3/section3.md): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
+  * [Chapitre IV - Les besoins.](livre1/chapitre4/README.md)
+    * [I. Besoins, combinaison de croyances et de désirs](). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
     * [II. Cycle individuel des besoins, l'habitude, et cycle collectif, la coutume.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_II) Comparaison avec le cycle des travaux.
     * [III. Budgets des familles et des États, où cette périodicité s'exprime.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_III) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
-  * [Chapitre V - Les travaux.](tome1/chapitre5/README.md)
-    * [I. Définition du travail.](tome1/chapitre5/section1.md) Le travail et l'invention.
-    * [II. La fatigue et l'ennui, fatigue musculaire et fatigue nerveuse.](tome1/chapitre5/section2.md) Le remède à l'ennui. L'hérédité des professions ennuyeuses. La fatigue régie par une loi opposée à la loi de Weber.
-    * [III. Le travail, de moins en moins fatigant, devient-il de moins en moins ennuyeux ?](tome1/chapitre5/section3.md) Chants du travail primitif.
-    * [IV. Degrés inégaux de la _considération_ attachée aux divers travaux.](tome1/chapitre5/section4.md) Considération des travaux, non toujours proportionnelle à leur utilité. Hausse et baisse alternatives, en Grèce, de l'estime des travaux manuels. Causes de ces variations en tout pays.
-    * [V. Classification générale des travaux.](tome1/chapitre5/section5.md)
-    * [VI. Transformations historiques du travail.](tome1/chapitre5/section6.md)
-    * [VII. Autres aperçus sur la périodicité des travaux.](tome1/chapitre5/section7.md)
-    * [VIII. Le loisir périodique, les vacances.](tome1/chapitre5/section8.md) Leur origine et leur extension.
-  * [Chapitre VI - La monnaie](tome1/chapitre6/README.md)
-    * [I. Définition](tome1/chapitre6/section1.md). Comment a pu se produire ce caractère de désirabilité constante, universelle et indéfinie, qui est propre à la monnaie, et qui explique son échangeabilité universelle.
-    * [II. Sa nature.](tome1/chapitre6/section2.md) Elle est économiquement ce que les mathématiques sont intellectuellement.
-    * [III. Pourquoi elle ne sert pas de moyen d'échange aux valeurs-vérités.](tome1/chapitre6/section3.md)
-    * [IV. Caractère tout subjectif de la monnaie.](tome1/chapitre6/section4.md)
-    * [V. Le pouvoir, le droit, l'argent.](tome1/chapitre6/section5.md)
-    * [VI. La terre et l'argent](tome1/chapitre6/section6.md), ressemblances et différences entre leurs rôles économiques, entre leurs modes d'accroissement et de répartition.
-    * [VII. Effets psychologiques du règne de l'argent ](tome1/chapitre6/section7.md); ses bienfaits, substitution des payements en argent aux payements en nature, facilités des voyages, etc.
-    * [VIII. Ses méfaits.](tome1/chapitre6/section8.md) La liberté terrienne et la liberté monétaire ; le droit terrien et le droit monétaire.
-    * [IX. Loi des transformations monétaires ](tome1/chapitre6/section9.md): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
-    * [X. Petits problèmes relatifs à la monnaie.](tome1/chapitre6/section10.md)
-  * [Chapitre VII - Le capital](tome1/chapitre7/README.md)
+  * [Chapitre V - Les travaux.](livre1/chapitre5/README.md)
+    * [I. Définition du travail.](livre1/chapitre5/section1.md) Le travail et l'invention.
+    * [II. La fatigue et l'ennui, fatigue musculaire et fatigue nerveuse.](livre1/chapitre5/section2.md) Le remède à l'ennui. L'hérédité des professions ennuyeuses. La fatigue régie par une loi opposée à la loi de Weber.
+    * [III. Le travail, de moins en moins fatigant, devient-il de moins en moins ennuyeux ?](livre1/chapitre5/section3.md) Chants du travail primitif.
+    * [IV. Degrés inégaux de la _considération_ attachée aux divers travaux.](livre1/chapitre5/section4.md) Considération des travaux, non toujours proportionnelle à leur utilité. Hausse et baisse alternatives, en Grèce, de l'estime des travaux manuels. Causes de ces variations en tout pays.
+    * [V. Classification générale des travaux.](livre1/chapitre5/section5.md)
+    * [VI. Transformations historiques du travail.](livre1/chapitre5/section6.md)
+    * [VII. Autres aperçus sur la périodicité des travaux.](livre1/chapitre5/section7.md)
+    * [VIII. Le loisir périodique, les vacances.](livre1/chapitre5/section8.md) Leur origine et leur extension.
+  * [Chapitre VI - La monnaie](livre1/chapitre6/README.md)
+    * [I. Définition](livre1/chapitre6/section1.md). Comment a pu se produire ce caractère de désirabilité constante, universelle et indéfinie, qui est propre à la monnaie, et qui explique son échangeabilité universelle.
+    * [II. Sa nature.](livre1/chapitre6/section2.md) Elle est économiquement ce que les mathématiques sont intellectuellement.
+    * [III. Pourquoi elle ne sert pas de moyen d'échange aux valeurs-vérités.](livre1/chapitre6/section3.md)
+    * [IV. Caractère tout subjectif de la monnaie.](livre1/chapitre6/section4.md)
+    * [V. Le pouvoir, le droit, l'argent.](livre1/chapitre6/section5.md)
+    * [VI. La terre et l'argent](livre1/chapitre6/section6.md), ressemblances et différences entre leurs rôles économiques, entre leurs modes d'accroissement et de répartition.
+    * [VII. Effets psychologiques du règne de l'argent ](livre1/chapitre6/section7.md); ses bienfaits, substitution des payements en argent aux payements en nature, facilités des voyages, etc.
+    * [VIII. Ses méfaits.](livre1/chapitre6/section8.md) La liberté terrienne et la liberté monétaire ; le droit terrien et le droit monétaire.
+    * [IX. Loi des transformations monétaires ](livre1/chapitre6/section9.md): diminution du nombre des monnaies en cours et extension du domaine des survivantes. Attachement des modernes mêmes aux monnaies nationales.
+    * [X. Petits problèmes relatifs à la monnaie.](livre1/chapitre6/section10.md)
+  * [Chapitre VII - Le capital](livre1/chapitre7/README.md)
     * [I. Définitions diverses du capital.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_I) Son origine. Son caractère essentiel.
     * [II. Le capital essentiel et le capital auxiliaire, le _germe_ et le _cotylédon._](#489878020016476-psycho_eco_t1_pt_I_chap_VII_II)Leurs manières très distinctes de s'accroître ou de périr.
     * [III. Deux causes de destruction du capital-invention.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_III)
@@ -67,3 +67,121 @@
     * [VII. Circulation du capital monétaire.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VII) Le cycle monétaire dans ses rapports avec le cycle des travaux et celui des besoins. Tendance à l'agrandissement de ces cycles et à l'acceptation de leur rotation.
     * [VIII. Karl Marx et la rotation économique.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_VIII)
     * [IX. Le crédit, ses origines.](#489878020016476-psycho_eco_t1_pt_I_chap_VII_IX) Le prêt, antérieur peut-être à l'échange. Formes successives du prêt.
+* [Livre second - L'opposition économique](livre2/README.md)
+  * [Chapitre I - Division du sujet](livre2/chapitre1/README.md)
+  * [Chapitre II - Les prix (théorie de la valeur)](livre2/chapitre2/README.md)
+    * [I. Deux sens du mot valeur](livre2/chapitre2/section1.md), l'un relatif aux luttes internes, subjectives, d'intérêts, d'où résultent les prix. Problème double : pourquoi prix égal pour tous? pourquoi, par le prix, équation entre offre et demande? Hypothèse d'un marché où la proportion des divers besoins, dans le cœur de chaque candidat à l'achat, serait la même, et où leurs fortunes seraient égales. Double échelle des consommateurs suivant l'intensité de leur désir ou le degré de leur fortune.
+    * [II. Problème qui se pose au marchand monopoleur, et solution de ce problème.](livre2/chapitre2/section2.md) Comparaison avec la théorie de l'utilité finale. Cas de la concurrence.
+    * [III. Rôle grandissant du prestige personnel, de la contagion psychologique, dans les marchés.](livre2/chapitre2/section3.md) Influence de la conversation.
+    * [IV. L'idée du juste prix.](livre2/chapitre2/section4.md) Son action sur le prix réel. Le juste prix d'une invention.
+    * [V. Impossibilité de rendre compte des prix par des considérations simplement objectives.](livre2/chapitre2/section5.md)
+    * [VI. La loi de l'offre et de la demande.](livre2/chapitre2/section6.md)
+    * [VII. Influence d'ordre logique.](livre2/chapitre2/section7.md)
+    * [VIII. Les frais de production.](livre2/chapitre2/section8.md)
+  * [Chapitre III - Les luttes (externes, de personne à personne)](livre2/chapitre3/README.md)
+  I. [Luttes de la production avec elle-même](#143633664585649-psycho_eco_t2_pt_II_chap_III_I) : d'abord, entre coproducteurs d'un même atelier.
+
+  II. [Puis, entre producteurs nationaux d'un même article (concurrence).](#143633664585649-psycho_eco_t2_pt_II_chap_III_II) Limites, causes, effets de la concurrence. Monopoles, trusts.
+
+  III. [Puis, entre producteurs nationaux et producteurs étrangers du même article.](#143633664585649-psycho_eco_t2_pt_II_chap_III_III) Libre échange et protection.
+
+  IV. [Spécialement, entre production nationale et production étrangère des armes.](#143633664585649-psycho_eco_t2_pt_II_chap_III_IV) L'industrie militaire, ses caractères et ses lois propres. Comparaison avec l'industrie religieuse.
+
+  V. [Enfin, entre producteurs d'articles hétérogènes.](#143633664585649-psycho_eco_t2_pt_II_chap_III_V) Loi des débouchés, question de luxe.
+
+  VI. [Conflits de la consommation avec elle-même.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VI) Lois somptuaires.
+
+  VII. [Luttes de la production avec la consommation.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VII)
+
+  VIII. [Conflits monétaires.](#143633664585649-psycho_eco_t2_pt_II_chap_III_VIII)
+
+  [**Chapitre IV**](#143633664585649-psycho_eco_t2_pt_II_chap_IV)**. Les crises (_luttes aiguës)_**
+
+  I. [Les luttes aiguës entre coproducteurs : grèves.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_I) Grèves anciennes et nouvelles.
+
+  II. [Crises proprement dites; crises économiques comparées à crises politiques ou autres.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_II) Deux sortes de crises : crises-guerres et crises-chutes. Lieur cause.
+
+  III. [Crises-guerres de la consommation.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_III)
+
+  IV. [Crises-chutes.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_IV)
+
+  V. [Crises monétaires et commerciales.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_V) Leurs trois phases, d'après Juglar. Les découvertes de gisements aurifères et argentifères. Concurrence de deux métaux.
+
+  VI. [Où tendent les crises.](#143633664585649-psycho_eco_t2_pt_II_chap_IV_VI)
+
+  [**Chapitre V**](#143633664585649-psycho_eco_t2_pt_II_chap_V)**. Les rythmes _(opposition de termes successifs)_**
+
+  I. [Critique de la loi de Spencer sur le rythme du mouvement.](#143633664585649-psycho_eco_t2_pt_II_chap_V_I) Idée de M. Poincaré. Rythmes oscillations (oppos.) et rythmes circulations (répétit.)
+
+  II. [Périodique alternance des époques de prospérité et de crise depuis le XIXe siècle](#143633664585649-psycho_eco_t2_pt_II_chap_V_II)
+
+  III. [Limitation et interprétation de cette périodicité.](#143633664585649-psycho_eco_t2_pt_II_chap_V_III)
+
+* [LIVRE TROISIÈME - L'ADAPTATION ÉCONOMIQUE](livre3/README.md)
+  [**Chapitre I**](#143633664585649-psycho_eco_t2_pt_III_chap_I)**. Division du sujet**
+
+  [**Chapitre II**](#143633664585649-psycho_eco_t2_pt_III_chap_II)**. L'imagination économique**
+
+  I. [Préliminaires ](#143633664585649-psycho_eco_t2_pt_III_chap_II_I); Second sens du mot _valeur_ (valeuremploi) valeur de production et de consommation et valeur d'échange.
+
+  II. [Conditions physiologiques, psychologiques et sociales de l'invention.](#143633664585649-psycho_eco_t2_pt_III_chap_II_II) Ribot, Faulhan. Son caractère déductif.
+
+  III. [Côté accidentel des inventions, complément de leur côté logique.](#143633664585649-psycho_eco_t2_pt_III_chap_II_III) Son importance historique.
+
+  IV. [_Imagination industrielle._](#143633664585649-psycho_eco_t2_pt_III_chap_II_IV)Ses subdivisions. Ses caractères. Comment elle adapte la nature à l'homme et les hommes les uns aux autres.
+
+  V. [Réponse à une objection de Sismondi.](#143633664585649-psycho_eco_t2_pt_III_chap_II_V) Invention industrielle toujours favorable aux consommateurs, pas toujours aux producteurs, du moins à ses débuts. Diminue la durée dit travail, mais non, finalement, le salaire, etc.
+
+  VI. [_Imagination commerciale._](#143633664585649-psycho_eco_t2_pt_III_chap_II_VI)Ses diverses espèces. Inventions locomotrices. Le besoin de locomotion. Chemins de fer, agents d'harmonisation économique ; sontils aussi des agents d'égalisation démocratique ? Substitution momentanée des aristocraties nationales aux aristocraties individuelles.
+
+  [**Chapitre III**](#143633664585649-psycho_eco_t2_pt_III_chap_III)**. Les développements de l'imagination économique**
+
+  I. [Quatre points de départ des évolutions économiques, d'après Gumplowicz.](#143633664585649-psycho_eco_t2_pt_III_chap_III_I) Critique de son idée.
+
+  II. [Généralisations partielles relatives aux voies habituellement suivies par le génie inventif.](#143633664585649-psycho_eco_t2_pt_III_chap_III_II) Sa direction principale vers la captation des forces animales d'abord, puis végétales, enfin physico-chimiques. Exemples.
+
+  III. [Agrandissement parallèle](#143633664585649-psycho_eco_t2_pt_III_chap_III_III) (les luttes et des harmonies. Tendance du génie inventif à se tourner vers les formes d'association.
+
+  [**Chapitre IV**](#143633664585649-psycho_eco_t2_pt_III_chap_IV)**. La propriété**
+
+  I. [La propriété considérée comme moyen d'adaptation négative, et aussi positive.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_I)
+
+  II. [Problème posé par l'inégalité des propriétés nationales.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_II)
+
+  III. [La rente du soi et les profits de l'industrie.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_III)
+
+  IV. [Nationalisation ou municipalisation de la propriété?](#143633664585649-psycho_eco_t2_pt_III_chap_IV_IV)
+
+  V. [Transformations passées du droit de propriété soit collective, soit individuelle.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_V) Causes de ces transformations.
+
+  VI. [Transformations actuelles, et leur tendance.](#143633664585649-psycho_eco_t2_pt_III_chap_IV_VI)
+
+  [**Chapitre V**](#143633664585649-psycho_eco_t2_pt_III_chap_V)**. L'échange**
+
+  I. [Documents inter-psychologiques à puiser](#143633664585649-psycho_eco_t2_pt_III_chap_V_I) : 1˚ dans les rapports économiques et spontanés des enfants, dans les cours de collèges; 2˚ dans ceux des sauvages avec les premiers navigateurs qui les découvraient.
+
+  II. [Voyages de Christophe Colomb et d'autres grands marins.](#143633664585649-psycho_eco_t2_pt_III_chap_V_II) Le don et le vol précédant toujours l'échange. Danses et chants, prélude de tout marché.
+
+  III. [Transformations de l'échange à travers les trois formes domestique, urbaine et nationale de l'économie.](#143633664585649-psycho_eco_t2_pt_III_chap_V_III) La vie urbaine et le commerce extérieur.
+
+  IV. [Le libre échange de nation à nation.](#143633664585649-psycho_eco_t2_pt_III_chap_V_IV)
+
+  V. [Rôle et place de l'échange parmi les autres formes de la répartition et de l'adaptation des richesses.](#143633664585649-psycho_eco_t2_pt_III_chap_V_V)
+
+  [**Chapitre VI**](#143633664585649-psycho_eco_t2_pt_III_chap_VI)**. L'association**
+
+  I. [Formes primitives de l'association, antérieures à l'échange et à la division du travail.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_I) « Chambres à filer » allemandes. Trois degrés de la division du travail.
+
+  II. [Avantages de l'association.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_II) L'irrigation de l'Égypte. Exemples d'une division systématique et autoritaire qui se transforme en une division du travail en apparence spontanée. Puis l'inverse.
+
+  III. [Corporations du moyen âge.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_III) Tendances nouvelles des confréries du XVe siècle.
+
+  IV. [Besoins nouveaux auxquels les nouvelles formes d'association doivent répondre.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_IV) Leur succès ou leur insuccès suivant qu'elles y répondent ou non. Sociétés de publicité, bureaux de placement, bourses du travail. Transformations de l'embauchage. Sociétés d'assurance, mutualités. Essais de production coopérative agricole.
+
+  V. [Toute association est sortie du cerveau d'un homme.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_V)
+
+  VI. [Classification des associations en quatre catégories.](#143633664585649-psycho_eco_t2_pt_III_chap_VI_VI) Vues d'avenir. La fin du monde, au sens nouveau.
+
+  [**Chapitre FINAL**](#143633664585649-psycho_eco_t2_pt_III_chap_VII)**. La population**
+
+  Esquisse d'une étude du problème de la population aux trois points de vue de sa propagation, de ses conflits belliqueux ou économiques, et de son adaptation aux circonstances géographiques ou historiques.
