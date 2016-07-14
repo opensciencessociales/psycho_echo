@@ -40,3 +40,13 @@
 * adaptat : néologisme de Gabriel Tarde
 
 > Ici je préfère commencer par l'adaptation suivie de la répétition et de l'opposition. C'est plus logique puisque la répétition et l'opposition supposent quelque chose qui puisse se répéter et s'opposer à soi, et ce quelque chose ne peut être qu'un agrégat, un **adaptat** (je demande pardon pour ce néologisme).
+
+#### Section 7
+
+* monères
+
+> à l'accouplement fécond, qui est un trésor sans cesse grossi de legs héréditaires depuis les monères jusqu'à l'homme,
+
+* animalcule
+
+> Mais nous n'avons pas besoin de la résoudre ; car il se peut aussi que, bien que ces étendues aient des limites, l'homme reste à jamais impuissant à les rencontrer, tant il y a de disproportion entre ces domaines grandioses et les pas minuscules de l'animalcule humain.
