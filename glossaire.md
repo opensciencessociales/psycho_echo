@@ -24,3 +24,19 @@
 #### Section 5
 
 * loi de répétition amplifiante
+
+#### Section 6
+
+* commensalisme :
+
+> Et partout aussi, au résultat de cette crise, nous voyons des oppositions qui s'adaptent : phénomènes de **commensalisme** et d'acclimatation, fécondations, traités d'alliance, combinaisons chimiques.
+
+* Répétition universelle
+
+* manducation
+
+> La forme la plus aiguë de l'opposition vivante est le meurtre, dans le sens le plus général du mot, qui comprend l'étouffement d'une plante par une autre, ou la **manducation** d'une plante par un animal aussi bien que le duel mortel de deux bêtes.
+
+* adaptat : néologisme de Gabriel Tarde
+
+> Ici je préfère commencer par l'adaptation suivie de la répétition et de l'opposition. C'est plus logique puisque la répétition et l'opposition supposent quelque chose qui puisse se répéter et s'opposer à soi, et ce quelque chose ne peut être qu'un agrégat, un **adaptat** (je demande pardon pour ce néologisme).
