@@ -25,3 +25,11 @@ En un tweet : Heureusement que la Terre est ronde
 > Nous n'apercevons pas de loi qui prédétermine l'apparition de toutes les inventions, ou de la plupart d'entre elles, à telle date plutôt qu'à telle autre, ici plutôt que là ; rien ne nous empêche de supposer que la boussole eût été découverte deux ou trois siècles plus tôt ou plus tard, et aussi bien l'Amérique, ou l'imprimerie, ou l'électricité. Mais, d'une invention quelconque, nous pouvons dire qu'elle ne pouvait naître avant telle autre qui l'a précédée et provoquée ; et, dans une large mesure, nous savons, à n'en pouvoir douter, qu'il y a un enchaînement logique des découvertes et des inventions, c'est-à-dire un ordre irréversible de leur apparition.
 
 -> Le principe d'invisibilité fait penser à la conception du temps chez Bruno Latour.
+
+
+#### 
+
+
+- Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
+
+> 2° des métiers où l'on _enseigne_, où l'on communique sa pensée par une sorte d'électrisation spirituelle à l'esprit d'autrui (clergé, professeurs, orateurs, grands publicistes)

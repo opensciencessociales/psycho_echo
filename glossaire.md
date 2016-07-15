@@ -50,3 +50,7 @@
 * animalcule
 
 > Mais nous n'avons pas besoin de la résoudre ; car il se peut aussi que, bien que ces étendues aient des limites, l'homme reste à jamais impuissant à les rencontrer, tant il y a de disproportion entre ces domaines grandioses et les pas minuscules de l'animalcule humain.
+
+* phraséologue
+
+> Si l'on interroge ces grands acteurs eux-mêmes, ils sont tous d'accord pour attribuer au « hasard » lisez à la rencontre non prévue, impossible à prévoir, de lignes régulières de causes et d'effets ce que des narrateurs **phraséologues** expliquent par des mots creux.
