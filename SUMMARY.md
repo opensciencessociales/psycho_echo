@@ -13,14 +13,14 @@
     * [VIII. Classification des types sociaux.](partie_preliminaire/chapitre1/section8.md)
     * [IX. Nécessité ou non de la mort des sociétés.](partie_preliminaire/chapitre1/section9.md)
   * [Chapitre II - La valeur et les sciences sociales.](partie_preliminaire/chapitre2/README.md)
-    * I. [Place de l'économie politique parmi les autres sciences sociales.](partie_preliminaire/chapitre2/section1.md) Théorie des vérités, théorie des utilités, théorie des beautés.
-    * II. [Valeur-vérité, valeur-gloire, valeur-crédit.](partie_preliminaire/chapitre2/section2.md)
-    * III. [Idées de monnaie, de propriété, de travail, d'association, etc.](partie_preliminaire/chapitre2/section3.md)
-    * IV. [Valeur d'un livre, production et concurrence des livres, offre et demande des livres.](partie_preliminaire/chapitre2/section4.md)
+    * [I. Place de l'économie politique parmi les autres sciences sociales.](partie_preliminaire/chapitre2/section1.md) Théorie des vérités, théorie des utilités, théorie des beautés.
+    * [II. Valeur-vérité, valeur-gloire, valeur-crédit.](partie_preliminaire/chapitre2/section2.md)
+    * [III. Idées de monnaie, de propriété, de travail, d'association, etc.](partie_preliminaire/chapitre2/section3.md)
+    * [IV. Valeur d'un livre, production et concurrence des livres, offre et demande des livres.](partie_preliminaire/chapitre2/section4.md)
   * [Chapitre III - Discussion du plan](partie_preliminaire/chapitre3/README.md)
   * [Chapitre IV - Coup d'œil historique](partie_preliminaire/chapitre4/README.md)
     * [I. Importance de la psychologie, et surtout de l'inter-psychologie, en économie politique.](partie_preliminaire/chapitre4/section1.md) Le loisir et le travail. Répartition du loisir. Psychologie du travailleur.
-    * II. [Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
+    * [II. Adam Smith psychologue.](partie_preliminaire/chapitre4/section2.md) Son optimisme fondé sur son déisme. Successeurs d'Adam Smith
 * [Livre premier - La répétition économique](livre1/README.md)
   * [Chapitre I - Division du sujet](livre1/chapitre1/README.md)
   * [Chapitre II - Rôle économique du désir](livre1/chapitre2/README.md)
@@ -34,9 +34,9 @@
     * [II. Comment naît et grandit la confiance en une nouveauté.](livre1/chapitre3/section2.md) Nos droits fondés sur nos _attentes._
     * [III. Attente des demandes de la clientèle par le producteur ](livre1/chapitre3/section3.md): échelle des degrés de probabilité qu'elle monte ou descend au cours du développement économique.
   * [Chapitre IV - Les besoins.](livre1/chapitre4/README.md)
-    * [I. Besoins, combinaison de croyances et de désirs](). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
-    * [II. Cycle individuel des besoins, l'habitude, et cycle collectif, la coutume.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_II) Comparaison avec le cycle des travaux.
-    * [III. Budgets des familles et des États, où cette périodicité s'exprime.](#489878020016476-psycho_eco_t1_pt_I_chap_IV_III) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
+    * [I. Besoins, combinaison de croyances et de désirs](livre1/chapitre4/section1.md). Leur propagation intra-nationale et internationale. Lois somptuaires de deux espèces opposées. Besoins virtuels.
+    * [II. Cycle individuel des besoins, l'habitude, et cycle collectif, la coutume.](livre1/chapitre4/section2.md) Comparaison avec le cycle des travaux.
+    * [III. Budgets des familles et des États, où cette périodicité s'exprime.](livre1/chapitre4/section3.md) Régularité croissante des revenus et des dépenses. Dépenses accidentelles qui deviennent régulières. Pourquoi les budgets sont annuels. Pourquoi ils vont grossissant. Budgets d'ouvriers.
   * [Chapitre V - Les travaux.](livre1/chapitre5/README.md)
     * [I. Définition du travail.](livre1/chapitre5/section1.md) Le travail et l'invention.
     * [II. La fatigue et l'ennui, fatigue musculaire et fatigue nerveuse.](livre1/chapitre5/section2.md) Le remède à l'ennui. L'hérédité des professions ennuyeuses. La fatigue régie par une loi opposée à la loi de Weber.
