@@ -26,8 +26,30 @@ En un tweet : Heureusement que la Terre est ronde
 
 -> Le principe d'invisibilité fait penser à la conception du temps chez Bruno Latour.
 
+### Chapitre 2
 
-#### 
+#### Section 1
+
+Définition de la valeur :
+
+> Elle est une qualité que nous attribuons aux choses, comme la couleur, mais qui, en réalité, comme la couleur, n'existe qu'en nous, d'une vie toute subjective. Elle consiste dans l'accord des jugements collectifs que nous portons sur l'aptitude des objets à être plus ou moins, et par un plus ou moins grand nombre de personnes, crus, désirés ou goûtés. Cette qualité est donc de l'espèce singulière de celles qui, paraissant propres à présenter des degrés nombreux et à monter ou à descendre cette échelle sans changer essentiellement de nature, méritent le nom de quantités.
+
+
+* _valeur-vérité_
+* _valeur-utilité_
+* _valeur-beauté_
+
+> Le plus ou moins de vérité d'une idée signifie trois choses diversement combinées : le plus ou moins grand nombre, le plus ou moins grand poids social (ce qui veut dire ici _considération_, compétence reconnue) des personnes qui s'accordent à l'admettre, et le plus ou moins d'intensité de leur croyance en elle.
+
+-> C'est proche de la définition latourienne de la vérité
+
+> Mais cette chose impossible, la transmission et l'assimilation des manières de sentir entre les hommes, l'Art l'a tentée, et, passant sur toutes leurs sensibilités mises en vibration son magique archet, les disciplinant, les accordant par l'imposition douce des sensations plus exquises de l'artiste qui se répandent contagieusement dans son public, il a socialisé les sensibilités, comme la religion ou la science les intelligences, comme la politique ou la morale, les volontés.
+
+Trois aspects de la sociologie : répétition, opposition, adaptation
+
+> Cependant, de toutes ces quantités, une seule, la richesse, a été saisie avec netteté comme telle, et a paru digne, par suite, d'être l'objet d'une science spéciale : l'Economie politique. Mais, quoique cet objet, en effet, à cause de son signe monétaire, se prête à des spéculations d'une précision plus mathématique, parfois même illusoire, les autres termes aussi méritent d'être étudiés chacun par une science à part.
+
+####
 
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
