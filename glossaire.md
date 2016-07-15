@@ -54,3 +54,12 @@
 * phraséologue
 
 > Si l'on interroge ces grands acteurs eux-mêmes, ils sont tous d'accord pour attribuer au « hasard » lisez à la rencontre non prévue, impossible à prévoir, de lignes régulières de causes et d'effets ce que des narrateurs **phraséologues** expliquent par des mots creux.
+
+### Chapitre 2
+
+
+#### Section 2
+
+* captieux :
+
+> Elle agit sur les variations de la valeur vénale, par les informations de la Bourse, par les réclames de tout genre, directes ou indirectes, insinuées en entrefilets **captieux** ; sur les variations de la valeur littéraire ou scientifique des livres, par ses revues de la littérature ou des sciences ; sur les variations de la valeur morale ou esthétique des œuvres quelconques, des produits quelconques, par l'ensemble des idées qu'elle préconise : sur les variations de la valeur des personnes, et en particulier, de leur réputation et de leur gloire, par ses diffamations ou ses apologies, par ses encensements redoublés ou ses conspirations du silence.

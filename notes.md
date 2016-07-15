@@ -49,8 +49,19 @@ Trois aspects de la sociologie : répétition, opposition, adaptation
 
 > Cependant, de toutes ces quantités, une seule, la richesse, a été saisie avec netteté comme telle, et a paru digne, par suite, d'être l'objet d'une science spéciale : l'Economie politique. Mais, quoique cet objet, en effet, à cause de son signe monétaire, se prête à des spéculations d'une précision plus mathématique, parfois même illusoire, les autres termes aussi méritent d'être étudiés chacun par une science à part.
 
-####
+notion de quantité sociale
 
+#### Section 2
+
+- gloriomètre :
+
+> Or, la gloire d'un homme, non moins que son crédit, non moins que sa fortune, est susceptible de grandir ou de diminuer sans changer de nature. Elle est donc une sorte de quantité sociale. Il serait intéressant de mesurer avec une certaine approximation, moyennant des statistiques ingénieuses, pour chaque espèce de célébrité, cette quantité singulière.
+
+> Le besoin d'un _gloriomètre_ se fait sentir d'autant plus que les notoriétés de toutes couleurs sont plus multipliées, plus soudaines et plus fugitives, et que, malgré leur fugacité habituelle, elles ne laissent pas d'être accompagnées d'un pouvoir redoutable, car elles sont un _bien_ pour celui qui les possède, mais une _lumière_, une foi, pour la société.
+
+Critique de la loi de l'offre et de la demande
+
+####
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
 
