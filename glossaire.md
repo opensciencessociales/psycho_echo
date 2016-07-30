@@ -69,3 +69,13 @@
 * multiformité :
 
 > Quant à la **multiformité** de ces évolutions, indépendamment de leur même sens, elle tient aux caprices de l'opinion, qui dirige tantôt ici, tantôt là, le rayon de son regard visuel, sous l'influence de ses directeurs et des circonstances.
+
+#### Section 4
+
+* machinofacture
+
+> Et, en fait de livres, comme en fait de produits, la fabrication à la main a précédé la _machinofacture_, l'imprimerie, substitution qui n'a pas eu de moins graves conséquences ici que là.
+
+* monomane
+
+> Dans la mesure où elle est exacte, elle tient à ce qu'un homme instruit, et aussi bien un public instruit, peut s'absorber dans un seul problème qui lui fait longtemps oublier tous les autres, ou se passionner pour un genre littéraire à l'exclusion de tous les autres, tandis que jamais homme, à moins d'être un monomane à enfermer, ne s'est préoccupé passionnément d'un seul besoin, celui de boire ou de se vêtir, au point d'oublier tous les autres.

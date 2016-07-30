@@ -79,7 +79,20 @@ Critique de la loi de l'offre et de la demande
 
 > À génie naturel égal, un homme rencontrera ou ne rencontrera pas d'idées géniales, suivant que les éléments de cette idée lui seront ou ne lui seront pas apportés par les courants croisés de l'imitation. Et, à égale génialité d'idées découvertes, elles le rendront illustre ou obscur suivant qu'elles rencontreront ou non un public soucieux d'elles et disposé à les accueillir.
 
-####
+#### Section 4
+
+> La _valeur_ d'un livre est une expression ambiguë, car chacun de ses exemplaires, en tant qu'il est tangible, appropriable, échangeable, consommable, a une valeur vénale qui exprime son degré de _désirabilité_, mais, en lui-même, en tant qu'intelligible, inappropriable, inéchangeable, inconsommable essentiellement, ce qui ne veut pas dire indestructible, il a une valeur scientifique, qui exprime son degré de _crédibilité_, sans compter sa valeur littéraire, qui veut dire son degré de séduction expressive[^37].
+
+
+
+
+
+
+
+
+
+
+#### Autres
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
 
