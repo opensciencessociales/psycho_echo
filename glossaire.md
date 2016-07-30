@@ -63,3 +63,9 @@
 * captieux :
 
 > Elle agit sur les variations de la valeur vénale, par les informations de la Bourse, par les réclames de tout genre, directes ou indirectes, insinuées en entrefilets **captieux** ; sur les variations de la valeur littéraire ou scientifique des livres, par ses revues de la littérature ou des sciences ; sur les variations de la valeur morale ou esthétique des œuvres quelconques, des produits quelconques, par l'ensemble des idées qu'elle préconise : sur les variations de la valeur des personnes, et en particulier, de leur réputation et de leur gloire, par ses diffamations ou ses apologies, par ses encensements redoublés ou ses conspirations du silence.
+
+#### Section 3
+
+* multiformité :
+
+> Quant à la **multiformité** de ces évolutions, indépendamment de leur même sens, elle tient aux caprices de l'opinion, qui dirige tantôt ici, tantôt là, le rayon de son regard visuel, sous l'influence de ses directeurs et des circonstances.

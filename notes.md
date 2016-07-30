@@ -61,6 +61,24 @@ notion de quantité sociale
 
 Critique de la loi de l'offre et de la demande
 
+#### Section 3
+
+> La monnaie est donc le mètre universel des quantités sociales, et non pas seulement des richesses.
+
+> On peut faire cette remarque générale : en tant que mesure des richesses, la monnaie n'a trait qu'à des échanges, ventes ou achats ; mais, en tant que mesure des croyances considérées à part des désirs, elle a trait surtout à des donations ou encore à des vols. C'est par des munificences, par des générosités en faveur d'œuvres scientifiques, ou littéraires, ou philanthropiques, ou patriotiques, par des souscriptions à des statues ou à des manifestations quelconques, que chacun de nous exprime la nature et la force des convictions qui dominent sa vie, des lumières qui constellent son ciel intérieur. C'est par ses dépenses désintéressées aussi qu'il révèle le degré de son admiration esthétique. Quelquefois même c'est par des vols où se montre la perversion d'un esprit sectaire, l'aberration et la profondeur de ses convictions passionnées.
+
+> Ce qui appartient en propre à la théorie des richesses, c'est l'emploi abusif de l'idée du travail qu'elle est trop portée à regarder comme la source unique (y compris le capital, travail accumulé suivant elle) des valeurs spéciales étudiées par elle. Nul juriste n'a commis l'erreur de dire que le travail est l'unique source des droits, et le politique sait bien que le pouvoir d'un homme ou sa popularité sont le fruit de la chance plus que de l'effort, qu'ils naissent plutôt d'une convenance accidentelle entre la nature de cet homme et les besoins de son temps et de son pays que d'une persévérance opiniâtre.
+
+-> Rôle de la chance
+
+> Il y a une autre erreur que l'Économie politique a toujours commise et qu'elle est seule à commettre, c'est celle qui consiste à ne pas distinguer, à l'égard de l'importance du travail, entre la création d'un nouveau genre de richesses ou d'un nouveau perfectionnement d'une richesse ancienne, et ce qu'elle appelle la _production_, mais ce qui, en réalité, n'est que la _reproduction_ de cette richesse à l'exemple contagieux du premier créateur. Le travail _reproducteur_ et copiste de l'ouvrier, de l'élève, du disciple en tout genre, est ingrat et pénible, et, dans une certaine mesure, malgré l'inégalité des talents, son résultat se proportionne à son intensité et à sa durée. Mais le travail joyeux du créateur, du producteur véritable, n'en est pas un à vrai dire, et c'est justement, je crois, que j'ai opposé l'inventeur au travailleur. L'inventeur peut avoir passé des années et des années à travailler péniblement sans rien trouver, et tout ce travail-là est perdu ; quand l'idée a lui, toute cette peine est oubliée, et, brève ou longue, ne compte plus, noyée dans sa joie laborieuse. Et c'est sa joie, non sa peine, qu'on lui paie. Et sa joie, bien plus que sa peine, pourrait servir à mesurer la valeur sociale de son invention.
+
+-> Distinction entre production et reproduction
+
+> Le crime majeur est tantôt le blasphème, tantôt la lèse-majesté, ou le vol, ou l'homicide ; la gloire majeure était hier militaire, avant-hier religieuse, la canonisation ; elle a été, sous la Restauration, poétique ; aujourd'hui elle serait plutôt celle du comédien que du dramaturge, celle du critique littéraire extraordinairement en vogue de nos jours que du poète ou du romancier même. À d'autres époques, en Italie, l'homme le plus glorieux a été un grand peintre, un grand sculpteur, un grand architecte. Dans l'Allemagne actuelle, la gloire musicale l'a emporté de beaucoup sur les autres gloires artistiques. Il y aurait à subdiviser : par exemple, chaque période et chaque nation du moyen âge chrétien se peignent dans la nature de ses saints ; là où fleurissent les saint Jérôme et les saint Augustin, les saint François d'Assise ne sauraient germer ni les Catherine de Sienne.
+
+> À génie naturel égal, un homme rencontrera ou ne rencontrera pas d'idées géniales, suivant que les éléments de cette idée lui seront ou ne lui seront pas apportés par les courants croisés de l'imitation. Et, à égale génialité d'idées découvertes, elles le rendront illustre ou obscur suivant qu'elles rencontreront ou non un public soucieux d'elles et disposé à les accueillir.
+
 ####
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
