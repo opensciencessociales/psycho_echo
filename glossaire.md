@@ -79,3 +79,7 @@
 * monomane
 
 > Dans la mesure où elle est exacte, elle tient à ce qu'un homme instruit, et aussi bien un public instruit, peut s'absorber dans un seul problème qui lui fait longtemps oublier tous les autres, ou se passionner pour un genre littéraire à l'exclusion de tous les autres, tandis que jamais homme, à moins d'être un monomane à enfermer, ne s'est préoccupé passionnément d'un seul besoin, celui de boire ou de se vêtir, au point d'oublier tous les autres.
+
+### Chapitre 3
+
+Aujourd'hui, il est vrai, en économie politique comme en **criminalistique**, une réaction vive s'opère contre cette obsession de l'abstraction scolastique et ce mépris de la réalité vivante.

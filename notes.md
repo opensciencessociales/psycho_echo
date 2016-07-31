@@ -83,13 +83,15 @@ Critique de la loi de l'offre et de la demande
 
 > La _valeur_ d'un livre est une expression ambiguë, car chacun de ses exemplaires, en tant qu'il est tangible, appropriable, échangeable, consommable, a une valeur vénale qui exprime son degré de _désirabilité_, mais, en lui-même, en tant qu'intelligible, inappropriable, inéchangeable, inconsommable essentiellement, ce qui ne veut pas dire indestructible, il a une valeur scientifique, qui exprime son degré de _crédibilité_, sans compter sa valeur littéraire, qui veut dire son degré de séduction expressive[^37].
 
+### Chapitre 3
 
+> Au lieu de « production des richesses », disons _répétition économique_ ; et par là nous entendrons les relations que les hommes ont entre eux, au point de vue de la propagation de leurs besoins semblables, de leurs travaux semblables, de leurs jugements semblables portés sur l'utilité plus ou moins grande de ces travaux et de leur résultat, de leurs transactions semblables.
 
+> Si, quand l'humanité naissante servait d'aliment favori aux grands fauves des âges préhistoriques, quelque Malthus eût apparu parmi les ours ou les lions des cavernes, il aurait pu faire, en la retournant, la même remarque que le Malthus historique et songer tristement aux faibles progrès de l'espèce humaine, nourriture des ours ou des lions, pendant que ceux-ci se multipliaient si vite.
 
+-> Critique de Malthus
 
-
-
-
+> Sous le titre d'_opposition économique_ je me propose de comprendre les rapports des hommes au point de vue de la contradiction psychologique et inaperçue de leurs besoins et de leurs jugements d'utilité, du conflit plus apparent de leurs travaux par la concurrence, par les grèves, par les guerres commerciales, etc.
 
 
 #### Autres
