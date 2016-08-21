@@ -93,6 +93,15 @@ Critique de la loi de l'offre et de la demande
 
 > Sous le titre d'_opposition économique_ je me propose de comprendre les rapports des hommes au point de vue de la contradiction psychologique et inaperçue de leurs besoins et de leurs jugements d'utilité, du conflit plus apparent de leurs travaux par la concurrence, par les grèves, par les guerres commerciales, etc.
 
+### Chapitre 4
+
+> À notre avis, disons-le franchement tout d'abord, avec tout le respect dû à des maîtres de si haut mérite, l'erreur des premiers architectes de l'économie politique et de leurs successeurs a été de se persuader que, pour constituer en corps de science leurs spéculations, le seul moyen, mais le moyen sûr, était de s'attacher au côté matériel et extérieur des choses, séparé autant que possible de leur côté intime et spirituel, ou, quand c'était impossible, de s'attacher au côté abstrait, et non concret, des choses. Par exemple, il fallait s'occuper des produits plutôt que des producteurs et des consommateurs ; et, dans le producteur ou dans le consommateur car enfin on ne pouvait éviter d'en parler il fallait considérer une dépense de force motrice (travail) ou un réapprovisionnement de force, et non des sensations, des émotions, des idées, des volontés. Être aussi _objectif_ et aussi abstrait qu'on le pouvait : c'était là la méthode… L'idéal était de dissimuler si bien sous des abstractions, telles que crédit, service, travail, les sensations et les sentiments cachés là-dessous, que personne ne les y aperçût, et de traiter ces abstractions comme des objets, des objets réels et matériels, analogues aux objets traités par le chimiste et le physicien, et, comme eux, tombant sous la loi du nombre et de la mesure. Aussi le chapitre de la monnaie et des finances, où ce double idéal semble se réaliser, où tout semble nombrable et mesurable comme en physique et en chimie, a-t-il été de tout temps le carreau de prédilection du jardin des économistes. Il n'en est pas moins vrai que la valeur, dont la monnaie n'est que le signe, n'est rien, absolument rien, si ce n'est une combinaison de choses toutes subjectives, de croyances et de désirs, d'idées et de volontés, et que les hausses et les baisses des valeurs de Bourse, à la différence des oscillations du baromètre, ne sauraient s'expliquer le moins du monde sans la considération de leurs causes psychologiques, accès d'espérance ou de découragement du public, propagation d'une bonne ou d'une mauvaise nouvelle à sensation dans l'esprit des spéculateurs.
+
+#### Section 1
+
+> On pourrait donner le nom de psychologie inter-cérébrale, ou d'inter-psychologie (barbarisme commode) à l'étude des phénomènes du moi impressionné par un autre moi, sentant un être sensible, voulant un être volontaire, percevant un être intelligent, _sympathisant_ en somme avec son objet.
+
+Critique de l'homo oeconomicus
 
 #### Autres
 
