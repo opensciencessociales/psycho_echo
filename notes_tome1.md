@@ -1,8 +1,3 @@
-
-[^38]: Je me permets de renvoyer le lecteur à mes Lois sociales, à cet égard.
-
-[^39]: Tout ce qui a trait à la légitimité ou à l'illégitimité de l'intérêt des capitaux, de la rente des terres, du profit des entreprises, doit être, par suite, traité ici.
-
 [^40]: « L'économie politique, dit Carey, ayant créé à son usage un être auquel elle a donné le nom _d'homme et_ de la composition duquel elle a exclu tous les éléments constitutifs de l'homme ordinaire qui lui étaient communs avec l'ange, en conservant soigneusement tous ceux qu'il partageait avec les bêtes fauves des forêts, s'est vue forcée, nécessairement, de retrancher de ses définitions de la richesse tout ce qui appartient aux sentiments, aux affections et à l'intelligence. »
 
 [^41]: Voir la _Grande industrie,_ par Schultze-Gevernitz.

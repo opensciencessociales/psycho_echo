@@ -82,4 +82,10 @@
 
 ### Chapitre 3
 
+* criminalistique :
+
 Aujourd'hui, il est vrai, en économie politique comme en **criminalistique**, une réaction vive s'opère contre cette obsession de l'abstraction scolastique et ce mépris de la réalité vivante.
+
+* viriculture :
+
+Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la culture des plantes, en vue des progrès de la richesse, ait si peu de souci de la **_viriculture_**.
