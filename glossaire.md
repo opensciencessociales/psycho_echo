@@ -89,3 +89,24 @@ Aujourd'hui, il est vrai, en économie politique comme en **criminalistique**, u
 * viriculture :
 
 Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la culture des plantes, en vue des progrès de la richesse, ait si peu de souci de la **_viriculture_**.
+
+### Chapitre 4
+
+#### Section 1
+
+* compagnonniques :
+
+> Mais, sans parler du _Compagnonnage_ qui n'avait jamais cessé de vivre ou de se survivre, sans parler d'autres Unions « compagnonniques » qui attestaient le besoin incompressible d'un _esprit de corps,_ les syndicats professionnels, enfin, ont surgi, et, avec eux, des vanités corporatives d'une taille gigantesque, des passions d'une intensité inouïe, des ambitions de conquêtes prodigieuses, une sorte de religion nouvelle, le socialisme, et une ferveur prosélytique inconnue depuis la primitive Église.
+
+* hédonistique
+
+> Cette psychologie « hédonistique » qui réduit tous les mouvements de l'âme à des peines évitées ou à des plaisirs recherchés, qui ne voit rien au delà du culte du plaisir ou de la fuite de la douleur comme but de l'existence, était si répandue chez les esprits cultivés de ce grand siècle qu'elle les inspirait à leur insu.
+
+
+* désoccupé
+
+> Et, de même que c'est toujours la flore sauvage qui fournit la matière première des plantes cultivées, d'utilité ou d'agrément, ainsi est-ce d'ordinaire la libre fantaisie de l'esprit désoccupé qui fournit le premier germe des idées scientifiques, industrielles, esthétiques, par lesquelles se renouvellent, les sciences, les industries, les arts.
+
+* bicycliste
+
+> Chez le conducteur de locomotives, d'automobiles surtout, comme chez le bicycliste, il n'est pas de pire défaut qu'une pensée imaginative et distrayante ; ils doivent être beaucoup plus attentifs que le charretier, le cocher, le cavalier même.

@@ -101,7 +101,29 @@ Critique de la loi de l'offre et de la demande
 
 > On pourrait donner le nom de psychologie inter-cérébrale, ou d'inter-psychologie (barbarisme commode) à l'étude des phénomènes du moi impressionné par un autre moi, sentant un être sensible, voulant un être volontaire, percevant un être intelligent, _sympathisant_ en somme avec son objet.
 
-Critique de l'homo oeconomicus
+Critique de l'homo œconomicus
+
+> En concevant l'_homo oeconomicus_, les économistes ont fait une double abstraction. C'en est une d'abord, et très abusive, d'avoir conçu un homme sans rien d'humain dans le cœur ; et c'en est une autre, ensuite, de s’être représenté cet individu comme détaché de tout groupe, corporation, secte, parti, patrie, association quelconque.
+
+> Jamais, à aucune époque de l'histoire, un producteur et un consommateur, un vendeur et un acheteur, n'ont été en présence l'un de l'autre, d'abord sans avoir été unis l'un à l'autre par quelque relation toute sentimentale, voisinage, concitoyenneté, communion religieuse, communauté de civilisation, et, en second lieu, sans avoir été escortés chacun d'un cortège invisible d'associés, d'amis, de coreligionnaires, dont la pensée a pesé sur eux dans la discussion du prix ou du salaire et finalement l'a imposé, au détriment le plus souvent de leur intérêt strictement individuel.
+
+> Car l'économie politique, telle que nous l'avons connue jusqu'ici, est une sorte de sociologie inconsciente et incomplète qui se fonde sur la seule psychologie de la sensibilité, méconnaissant à peu près celle de l'intelligence et de la volonté, de la foi et du désir.
+
+> L'illusion est de croire que notre production agricole, industrielle ou autre, que notre richesse ou notre puissance en tout genre, est le fruit exclusif de notre travail. Notre travail n'y a été que pour une part, il n'a valu que par la collaboration séculaire de tous les ancêtres dont nous sommes les héritiers. Et cela même ne suffit pas, il faut, pour que notre travail ait un effet grand et durable, que nous fassions collaborer à cette œuvre contemporaine notre postérité même, ce qui arrive quand, préoccupés d'elle en vertu d'idées religieuses ou de sentiments domestiques, sa pensée amasse en nous des trésors de dévoûment et d'abnégation qui doublent nos forces et le prix de nos efforts.
+
+> Partout et toujours, la quantité de travail dont les hommes réunis en société disposent, je ne dis pas celle qu'ils dépensent effectivement, qu'il s'agisse d'une peuplade sauvage ou d'une grande nation moderne, a été plus que suffisante pour produire la quantité de denrées, d'articles ou de services de tout genre nécessaires à la satisfaction des désirs préexistants. Seulement, à mesure que cet excès de forces humaines sans emploi utile apparaît, de nouveaux désirs, de nouveaux besoins surgissent qui le diminuent en suscitant de nouvelles branches de travail. Ainsi, deux progrès parallèles et contraires marchent de front : d'une part, le perfectionnement incessant du travail qui, à durée égale, devient plus productif et tend sans cesse à accroître l'excédent de forces humaines disponibles ; d'autre part, la complication croissante des besoins qui tend à annihiler ce bénéfice du travail dès qu'il se montre, à faucher cette moisson en herbe.
+
+-> manière intéressante de poser le problème
+
+- Les économistes s'intéressent exclusivement au travail alors que le loisir est tout aussi important (préliminaire, chapitre 4, section 1).
+
+> Le grand succès des « Anglo-Saxons » durant notre siècle s'explique ainsi. L'immense emploi des machines, qui caractérise l'industrie contemporaine, a eu pour conséquence, en effet, de reléguer au second rang, de déprécier considérablement un ensemble de qualités fines qui étaient auparavant cotées en première ligne chez l'ouvrier et que l'ouvrier italien ou français présentait au plus haut degré : l'adresse manuelle, le cachet artistique, choses liées à la souplesse d'esprit, à l'imagination _débrouillarde_ et ingénieuse, à la fantaisie un peu vagabonde. Mais, en revanche, la direction des machines réclame à tout prix une qualité bien simple et bien modeste, qui a dès lors acquis une valeur infinie, et qui distingue entre tous l'ouvrier anglais, l'ouvrier américain, l'ouvrier allemand : je veux dire la force et la ténacité d'attention, d'attention fixe ou tournant dans un cercle fixe, sans la moindre distraction.
+
+> Je ferai remarquer, en passant, que la fixité et l'intensité de l'attention, dès qu'elles dépassent le degré moyen et normal, qui est bien au-dessous du degré exigé par la direction et la surveillance des machines modernes, sont une grande cause d'épuisement nerveux, et pourraient bien être pour quelque chose dans le progrès de la folie et du déséquilibre mental à notre époque. La trop grande stabilité de l'attention doit produire, par une réaction inévitable, l'instabilité de l'attention, qui est la caractéristique des désordres nerveux.
+
+> L'_esprit d'entreprise_ et l'_ardeur au travail_ sont les deux conditions psychologiques fondamentales de la prospérité économique d'un peuple. Or, l'esprit d'entreprise est surtout excité ou paralysé par des causes dont les économistes ne tiennent nul compte, telles qu'une série de victoires ou de défaites militaires d'où résulte, par une contagion d'esprit à esprit, de cœur à cœur, une exaltation ou une dépression de l'orgueil collectif. Au fond de toute fièvre productrice, aux États-Unis, en Angleterre, il y a un orgueil national intense.
+
+> N’y a-t-il pas des lois qui règlent les courants de mode, en apparence capricieux, la formation des coutumes, la généralisation ou la consolidation des usages, des caprices exceptionnels devenus besoins publics ? Cette question devrait l'intéresser aussi vivement que les lois des courants atmosphériques intéressent le navigateur à voile.
 
 #### Autres
 

@@ -1,7 +1,5 @@
 
-[^41]: Voir la _Grande industrie,_ par Schultze-Gevernitz.
 
-[^42]: Voir sur ce point, notamment, la _Revue d'économie politique_, mars 1899\.
 
 [^43]: Il est probable que de nos jours, Smith n'eût point noté cette remarque. peut-être même, entraîné par le courant général, eût-il écrit précisément l'inverse. En tout cas, ce passage est un document propre à révéler que la psychologie de l'ouvrier, depuis Smith, s'est notablement élevée et enrichie.
 
