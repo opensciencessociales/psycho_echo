@@ -125,6 +125,19 @@ Critique de l'homo œconomicus
 
 > N’y a-t-il pas des lois qui règlent les courants de mode, en apparence capricieux, la formation des coutumes, la généralisation ou la consolidation des usages, des caprices exceptionnels devenus besoins publics ? Cette question devrait l'intéresser aussi vivement que les lois des courants atmosphériques intéressent le navigateur à voile.
 
+#### Section 2
+
+> On comprend qu'un homme si disposé à voir un artiste divin derrière la toile des événements humains et une sagesse divine derrière toute folie humaine, ne devait pas avoir la moindre peine à regarder l'égoïsme lui-même, l'amour de soi, comme investi d'une fonction sacrée, éminemment propre à tisser et consolider l'harmonie sociale. Aussi, quand il fondait toute l'économie politique sur ce principe et qu'il réduisait l'_homo œconomicus_ à l'intérêt bien entendu, abstraction faite de toute affection et de toute abnégation, ce n'était point chez lui l'effet d'une conception épicurienne et matérialiste, c'était au contraire une suite naturelle de sa piété et de sa foi en Dieu. Derrière l'homme égoïste il y avait le Dieu bienfaisant, et l'apologie de l'égoïsme du premier n'était, à vrai dire, qu'un hymne en prose à la bonté infinie du second.
+
+> Melon, précurseur de Fourier en cela, rêve déjà le travail attrayant et surtout rendu tel par la collaboration des deux sexes. « Lorsque des hommes et des femmes travailleront ensemble à la construction d'un canal ou d'un grand chemin, le travail en sera plus animé et moins dur. »
+
+> Mais, à partir du commencement de notre siècle, et chez les successeurs directs d'Adam Smith, l'économie politique a été pendant longtemps se dépouillant de plus en plus du peu de psychologie sentimentale ou morale qu'elle contenait en dissolution, pour revêtir un air plus froid, une physionomie plus géométrique. Cette sorte de cristallisation, prise à tort pour une épuration, est frappante, notamment, dans les écrits de J.-B. Say et de Garnier[^44]. Alors s'est installé dans sa chaire scolastique le dogmatisme de l'économie classique qui a pu un moment se croire indiscutable .
+
+> Je dis _au contraire_, parce qu'il [Cournot] a cru à tort qu'il ne pouvait _mathématiser_ la science économique sans la dépouiller de tout élément subjectif. Mais, s'il avait pris la peine de considérer que, dans les phénomènes de conscience eux-mêmes, il y a un côté justiciable du nombre et de la mesure, que la croyance et le désir ont des degrés, une double échelle de degrés positifs et négatifs, affirmation et négation, désir et répulsion, amour et haine, peut-être aurait-il vu que le seul moyen de faire de la bonne statistique, c'est-à-dire de l'arithmétique sociale, c'est de faire porter les dénombrements du statisticien sur des faits extérieurs, soit, mais qui consistent au fond en croyances et en désirs, en idées et en besoins, en actes de foi et en actes de volonté, en jugements et en décisions. J'ai essayé de le montrer ailleurs[^45].
+
+> La tendance à _mathématiser_ la science économique et la tendance à la _psychologiser_,_ loin d'être inconciliables, doivent donc plutôt se prêter à nos yeux un mutuel appui. Dans la statistique réformée et mieux comprise, dans la statistique toute pénétrée d'un esprit inter-psychologique, j'aperçois la conciliation possible et même aisée de ces deux directions, en apparence divergentes.
+
+
 #### Autres
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.

@@ -24,3 +24,9 @@ Dans la version Gallica, on trouve `En d'autres termes, e champ de l'opinion`. N
 Dans la version Gallica (page 121), il semble qu'il est écrit "homo æconomicus" et non pas "homo œconomicus".
 
 -> Vérifier quelle est la bonne orthographe.
+
+#### Section 2
+
+> Il faut donc, le théorisme étant écarté des harmonies sociales - économiques ou autres - écarter aussi l'égoïsme comme explication et agent de ces harmonies, et faire appel à d'autres principes, à d'autres mobiles, pour refondre en conséquence l'économie politique élargie.
+
+Vérifier si ça n'est pas plutôt le théisme

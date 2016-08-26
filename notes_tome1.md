@@ -1,14 +1,3 @@
-
-
-
-[^43]: Il est probable que de nos jours, Smith n'eût point noté cette remarque. peut-être même, entraîné par le courant général, eût-il écrit précisément l'inverse. En tout cas, ce passage est un document propre à révéler que la psychologie de l'ouvrier, depuis Smith, s'est notablement élevée et enrichie.
-
-[^44]: Noter la dureté de ces économistes, non par inhumanité naturelle, mais par logique de leur système. « À parler rigoureusement, dit J.B. Say, la société ne doit aucun secours, aucun moyen de subsistance à ses membres. »
-
-[^45]: _Lois de l'imitation,_ chap. intitulé « L'archéologie et la statistique ».
-
-[^46]: Mais je connais trop peu ces économistes, pour parler plus longtemps de leurs idées. Celles que j'ai à exposer sont le développement de germes posés en substance, pour la première fois, dans la _Revue philosophique,_ en septembre et octobre 1881, c'est-à-dire à une époque antérieure, je crois à l'apparition des écoles étrangères dont je viens de parler mais peu importe sous le titre de _la Psychologie eu économie politique._ S'il y a des coïncidences entre les théories énoncées là et celles d'écoles autrichiennes ou allemandes, je me félicite d'autant plus de cet accord qu'il aura été plus spontané.
-
 [^47]: S'ils les expliquent, comme cela arrive si souvent à M. du Maroussem, qui a singulièrement perfectionné la méthode après M. Cheysson, c'est en greffant sur elle des notions et des préoccupations qui lui étaient primitivement étrangères.
 
 [^48]: On a remarqué, par exemple, en Italie (Rivista italiana di sociologia, article de M. Coletti) que les émigrants d'origine urbaine ont précédé et entraîné les émigrants d'origine rurale. M. Coletti note que la tendance à émigrer se propage par une véritable _psychose épidémique_ dont _l'Inchiesta_ agraria, dit-il, d'écrit des « épisodes vraiment, caractéristiques ». On a remarqué aussi que l'initiative de l'émigration est partie d'individus isolés et que les familles émigrantes ont suivi…

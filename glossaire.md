@@ -110,3 +110,23 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 * bicycliste
 
 > Chez le conducteur de locomotives, d'automobiles surtout, comme chez le bicycliste, il n'est pas de pire défaut qu'une pensée imaginative et distrayante ; ils doivent être beaucoup plus attentifs que le charretier, le cocher, le cavalier même.
+
+#### Section 2
+
+* théorisme
+
+> Il faut donc, le théorisme étant écarté des harmonies sociales - économiques ou autres - écarter aussi l'égoïsme comme explication et agent de ces harmonies, et faire appel à d'autres principes, à d'autres mobiles, pour refondre en conséquence l'économie politique élargie.
+
+* hérésiarques
+
+> Toutefois, elle n'a pu jamais empêcher les murmures des dissidents, des hérésiarques, de s'élever autour de sa chaire ; et je n'ai pas à les énumérer tous. Un mot seulement.
+
+* Melon
+
+* Sismondi
+
+* Ruskin
+
+* Maine de Biran
+
+* Leroux
