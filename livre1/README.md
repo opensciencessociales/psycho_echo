@@ -1,1 +1,1 @@
-## Livre premier : la répétition économique
+## Livre premier : La Répétition économique

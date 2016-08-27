@@ -137,8 +137,15 @@ Critique de l'homo œconomicus
 
 > La tendance à _mathématiser_ la science économique et la tendance à la _psychologiser_,_ loin d'être inconciliables, doivent donc plutôt se prêter à nos yeux un mutuel appui. Dans la statistique réformée et mieux comprise, dans la statistique toute pénétrée d'un esprit inter-psychologique, j'aperçois la conciliation possible et même aisée de ces deux directions, en apparence divergentes.
 
+## Livre 1
 
-#### Autres
+### Chapitre 1
+
+> La reproduction des richesses suppose, avant tout, la reproduction psychologique des désirs de consommation, et des croyances spéciales attachées à ces désirs, sans lesquels un article matériellement reproduit ne serait point une richesse.
+
+> Dans l'école de Le Play, l'importance de la répétition a été comprise, puisque c'est sur elle qu'est fondée implicitement la méthode des monographies. Cette méthode consiste à penser qu'on se fait une idée complète d'une société en étudiant de près quelques-unes seulement de ses parties, mais de ses parties typiques, reproduites à multiples exemplaires, deux ou trois types de familles, par exemple, si bien que leur connaissance approfondie implique celle du tout. C'est très juste ; mais, si Le Play et ses élèves ont bien vu cela, ils se sont trompés en considérant la famille ou tout autre groupe social, tel que l'atelier même, comme ce qu'il y a de plus régulièrement répété en fait de choses sociales, et en ne descendant pas plus bas, dans le détail des faits, pour y chercher les unités élémentaires, dont ils ont aperçu les répétitions d'ailleurs mais sans leur prêter l'attention qu'elles méritent.
+
+## Autres
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.
 

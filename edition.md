@@ -1,5 +1,6 @@
 
-- Problème des tirets longs, voir pp/chap1/section3.md bien net.
+- Problème des tirets longs, voir pp/chap1/section3.md
+bien net.
 
 ## Partie préliminaire
 
@@ -30,3 +31,10 @@ Dans la version Gallica (page 121), il semble qu'il est écrit "homo æconomicus
 > Il faut donc, le théorisme étant écarté des harmonies sociales - économiques ou autres - écarter aussi l'égoïsme comme explication et agent de ces harmonies, et faire appel à d'autres principes, à d'autres mobiles, pour refondre en conséquence l'économie politique élargie.
 
 Vérifier si ça n'est pas plutôt le théisme
+
+## Livre premier
+
+### Chapitre 1
+
+- problème du tiret en début de pragraphe ligne 21
+- problème du saut de paragraphe dans la note 49
