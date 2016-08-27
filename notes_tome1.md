@@ -1,6 +1,3 @@
-
-[^51]: Quant aux désirs, aux besoins tout à fait primitifs, qui naissent les mêmes chez tous les individus, indépendamment de toute influence reçue des parents, des camarades de milieu, ils sont, en quelque sorte, pré-économiques_._ En réalité, ils se dissimulent sous la livrée des désirs spécifiéspar la contagion sociale…
-
 [^52]: Voir, _Logique sociale,_ le chapitre intitulé les « lois de l'invention », et les _Lois de l'Imitation._ Paris. F. Alcan.
 
 [^53]: J'ai cité ailleurs ces deux exemples typiques : 1° l'idée de la rotation de la lune autour de la terre et l'idée de la chute d'une pomme venant à se présenter dans l'esprit de Newton, comme peut-être les effets d'une même cause, indiquée par la seconde ; 2° l'idée de la locomotive à vapeur et l'idée du rail (déjà connu longtemps avant la locomotive) venant à se présenter, dans l'esprit de Stephenson, comme propres à se lier utilement, la seconde pouvant servir d'auxiliaire à la première . J'aurais pu citer aussi bien d'autres liaisons d'idées, telles que la liaison entre l'idée de 1'éclairage et l'idée de l'acétylène, entre l'idée de l'acier et celle du manganèse, entre l'idée de la lumière et celle de l'ondulation ou des courants électriques…
