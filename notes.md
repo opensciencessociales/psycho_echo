@@ -149,7 +149,14 @@ Critique de l'homo œconomicus
 
 #### Section 1
 
-L'économiste ne peut pas faire faire l'économie de comprendre le désir. 
+L'économiste ne peut pas faire faire l'économie de comprendre le désir.
+
+#### Section 2
+
+> Il y a donc, dans toute vie individuelle, à distinguer les désirs périodiques, périodiquement enchaînés, qui sont les plus nombreux, les plus importants au point de vue de la production industrielle, et les désirs capricieux, non périodiques, qui se suivent sans se répéter régulièrement. C'est surtout sur les habitudes des individus que l'industrie doit compter ; mais leurs passions et leurs caprices, dont la proportion va grandissant à notre époque de crise sociale, sont la pépinière où prennent naissance les nouvelles habitudes de demain.
+
+> Une illusion à craindre, quand on vit comme nous à une époque de progression rapide et fiévreuse des besoins, est de croire qu'elle est l'état normal de l'humanité et pourra se poursuivre sans fin. Il viendra nécessairement un moment où le cœur humain, même américain, ne suffira plus à cette émission continue de nouveaux désirs que les développements de la machinofacture exigent de lui pour qu'il offre des débouchés sans cesse croissants à sa production toujours plus abondante. La nature humaine n'est pas inépuisable en besoins, ni en caprices même, et, tôt ou tard, chaque homme, même le plus ambitieux et le plus imaginatif, se heurte aux limites non seulement de sa force, mais de son désir, devenu inextensible. Quand ce heurt final, quand cet arrêt de croissance se produira pour l'humanité, il est bien certain que le progrès ne pourra plus consister dans un accroissement continu de la production, idéal de tant d'économistes. Il ne pourra plus viser que l'abréviation croissante du travail humain et l'augmentation du loisir.
+
 
 ## Autres
 

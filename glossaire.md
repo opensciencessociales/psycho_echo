@@ -135,6 +135,14 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 
 ### Chapitre 1
 
+#### Section 1
+
 * M. du Maroussem
 
 * Courcelle-Seneuil
+
+#### Section 2
+
+* machinofacture
+
+> Il viendra nécessairement un moment où le cœur humain, même américain, ne suffira plus à cette émission continue de nouveaux désirs que les développements de la machinofacture exigent de lui pour qu'il offre des débouchés sans cesse croissants à sa production toujours plus abondante.
