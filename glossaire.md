@@ -146,3 +146,11 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 * machinofacture
 
 > Il viendra nécessairement un moment où le cœur humain, même américain, ne suffira plus à cette émission continue de nouveaux désirs que les développements de la machinofacture exigent de lui pour qu'il offre des débouchés sans cesse croissants à sa production toujours plus abondante.
+
+### Chapitre 2
+
+#### Section 3
+
+* réfringents
+
+> Elles ont servi surtout à susciter des découvertes et des inventions d'un degré supérieur qui, en faisant apercevoir la nature à travers les sentiments caractéristiques de la vie sociale, amours et haines, adorations et exécrations, peines et colères, sympathies et antipathies, à travers les verres ***réfringents*** des mots et des dogmes, des langues et des religions, des théories philosophiques, des notions scientifiques, donnent au désir une foule d'objets entièrement nouveaux, poursuivis par des voies d'activité tout à fait nouvelles.
