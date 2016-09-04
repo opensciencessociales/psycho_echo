@@ -180,6 +180,12 @@ Quand on dit que la production des richesses a trois facteurs, le capital, le tr
 
 -> Tarde a déjà compris que la monnaie est un acte de foi. Voir les réflexions qu'on a eu après la fin de l'étalon-or dans les années 1970.
 
+#### Section 3
+
+-> importance de la langue
+
+> Si l'on réfléchit à cela, on s'aperçoit que la rivalité des langues, leur lutte pour le triomphe et pour la conquête du monde par l'une d'elles, est, non pas une question linguistique seulement, mais l'un des problèmes économiques les plus importants. Les Anglais savent bien que rien ne contribue plus efficacement à accroître et consolider leur prépondérance industrielle que l'extension de leur langue dans le monde. Imaginez qu'un de nos grands États européens fût resté morcelé en des centaines de dialectes comme au moyen âge, est-ce que la grande industrie y serait possible ? Non, en dépit de toutes les inventions des machines ; car la grande industrie suppose la similitude des mêmes demandes d'articles dans une vaste région, et une telle assimilation n'est possible en général, que par l'extension d'un même idiome qui s'est substitué ou superposé aux autres et les a relégués au rang de patois. Entre gens ne parlant pas la même langue, la communication des idées et des besoins est toujours entravée, et, quoique beaucoup d'idées et de besoins parviennent à franchir cet obstacle, il n'en est pas moins vrai que cette barrière est insurmontable à la plupart d'entre eux, ou n'est surmontable qu'à la longue.
+
 ## Autres
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.

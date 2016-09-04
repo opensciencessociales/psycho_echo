@@ -175,4 +175,14 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 
 * Law
 
-> A propos des billets de banque, Law explique clairement cela, mais beaucoup trop rationnellement, suivant les habitudes de son siècle, dans ses lettres au régent. 
+> A propos des billets de banque, Law explique clairement cela, mais beaucoup trop rationnellement, suivant les habitudes de son siècle, dans ses lettres au régent.
+
+#### Section 3
+
+* babil
+
+> Il n'est donc pas de directeur plus puissant de la consommation, ni, par suite, de facteur plus puissant quoique indirect, de la production, que le babil des individus dans leurs heures de loisir.
+
+* prévoyances
+
+> Or, est-il impossible que les _attentes_ et les prévoyances des producteurs, s'élevant peu à peu sur l'échelle des probabilités, atteignent jamais le sommet ?
