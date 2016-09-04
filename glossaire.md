@@ -200,3 +200,9 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 * niveleuse
 
 > Et qu'est-ce qui est le plus déraisonnable, en soi, d'élever des digues impuissantes contre le torrent de l'imitation niveleuse, ou de rendre ce torrent plus rapide encore et plus débordant, sans songer aux ravages que peut causer sa précipitation aveugle ?
+
+#### Section 2
+
+* fonctionnarisme
+
+> L'ère du salariat n'est donc pas près de se clore ; les progrès incessants, en tout pays, du fonctionnarisme, ce salariat bourgeois, en sont la preuve. 
