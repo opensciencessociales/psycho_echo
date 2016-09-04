@@ -168,6 +168,18 @@ Quand on dit que la production des richesses a trois facteurs, le capital, le tr
 
 > On n'a pas étudié assez l'action des groupements sociaux de tous genres, cafés, salons, sectes, concerts, foules, dans la propagation des désirs économiques, dans leur direction et leur intensité.
 
+### Chapitre 3
+
+#### Section 2
+
+-> Intuition de Kahneman et Tversky :
+
+> Puis, il ne faut pas oublier que la nature humaine, en somme, est portée à l'optimisme. Pour s'en convaincre, il suffit de faire un rapprochement. Même en admettant les statistiques des chemins de fer les plus favorables aux compagnies, le risque que l'on court d'être victime d'un accident quand on monte en wagon est, d'après le calcul des probabilités, très supérieur à la chance qu'on a de gagner un lot de 100 000 francs quand on achète une obligation du Crédit foncier ou tout autre valeur à lots. Cependant la pensée de l'accident éventuel n'empêche personne ou presque personne de voyager en chemin de fer, tandis que la perspective de gagner le gros lot est la grande attraction qui explique la vogue de certains titres et est payée fort cher par les acquéreurs. D'où j'ai le droit de conclure que l'homme est bien plus enclin à l'espérance qu'à la crainte et que le pessimisme, quand il souffle quelque part, dans une petite région du public, y est importé et factice, en contradiction avec l'optimisme normal et habituel, et destiné à être refoulé par celui-ci - qui a quelque chose de plus dynamique, pour continuer la métaphore de tout à l'heure.
+
+> Le _crédit_, qu'est-ce autre chose qu'un acte de foi ? Et la _monnaie_, qu'est-ce autre chose aussi qu'un acte de foi, la foi de celui qui, possédant une pièce d'or ou un billet de banque, _s'attend_ fermement à pouvoir l'échanger contre telle marchandise que bon lui semblera attente déçue s'il ne possède qu'une pièce fausse ? Et, dès lors, le rôle toujours grandissant de la monnaie et du crédit n'atteste-t-il pas que le rôle économique de la croyance grandit sans cesse dans les mêmes proportions ?
+
+-> Tarde a déjà compris que la monnaie est un acte de foi. Voir les réflexions qu'on a eu après la fin de l'étalon-or dans les années 1970.
+
 ## Autres
 
 - Vision drôle drôle de l'enseignement : communiquer sa pensée par une sorte d'électrisation spirituelle de l'esprit d'autrui.

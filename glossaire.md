@@ -154,3 +154,25 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 * réfringents
 
 > Elles ont servi surtout à susciter des découvertes et des inventions d'un degré supérieur qui, en faisant apercevoir la nature à travers les sentiments caractéristiques de la vie sociale, amours et haines, adorations et exécrations, peines et colères, sympathies et antipathies, à travers les verres ***réfringents*** des mots et des dogmes, des langues et des religions, des théories philosophiques, des notions scientifiques, donnent au désir une foule d'objets entièrement nouveaux, poursuivis par des voies d'activité tout à fait nouvelles.
+
+### Chapitre 3
+
+#### Section 1
+
+* Ruskin
+
+> S'il pouvait se propager aujourd'hui sur le continent américain ou européen une doctrine telle que le stoïcisme antique ou l'évangélisme primitif, une foi profonde et unanime en la vanité du désir, en la sagesse du non-désir et de la vie réduite à son maximum de simplicité ; si, du moins, l'esthétisme à la Ruskin faisait des progrès sérieux dans les masses, il est certain que l'industrie moderne serait frappée à mort.
+
+* _pillarots_
+
+> Les cris des marchands ambulants dans les campagnes, des chiffonniers, par exemple, qu'on appelait _pillarots_ dans le midi de la France, les annonces faites par les crieurs publics dans les petites villes, les airs particuliers et traditionnels que criaient ou chantaient les vendeurs des divers métiers en passant dans les rues de Paris au moyen âge et jusqu'à notre siècle, sont la plus archaïque forme de la réclame.
+
+#### Section 2
+
+* échangeabilité
+
+> Cela peut servir à nous apprendre de quelle manière, à une époque beaucoup plus ancienne, est née et s'est propagée cette confiance générale et profonde en l'échangeabilité universelle de l'or et de l'argent, qui constitue essentiellement la monnaie.
+
+* Law
+
+> A propos des billets de banque, Law explique clairement cela, mais beaucoup trop rationnellement, suivant les habitudes de son siècle, dans ses lettres au régent. 
