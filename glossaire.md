@@ -186,3 +186,17 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 * prévoyances
 
 > Or, est-il impossible que les _attentes_ et les prévoyances des producteurs, s'élevant peu à peu sur l'échelle des probabilités, atteignent jamais le sommet ?
+
+### Chapitre 4
+
+#### Section 1
+
+* _philonéisme_
+
+> Les besoins des classes supérieures sont reflétés par les classes inférieures, sous l'empire de mobiles tels que le snobisme ou le sentiment du droit à l'égalité ; les besoins de l'étranger sont copiés par les nationaux, et d'abord par les classes supérieures de la nation, par l'élite de la capitale, en vertu du _philonéisme_ qui leur est propre, de cette rage de nouveauté qui les tourmente et qui est stimulée en elles par les satisfactions mêmes qu'elle a déjà reçues.
+
+* loi somptuaire
+
+* niveleuse
+
+> Et qu'est-ce qui est le plus déraisonnable, en soi, d'élever des digues impuissantes contre le torrent de l'imitation niveleuse, ou de rendre ce torrent plus rapide encore et plus débordant, sans songer aux ravages que peut causer sa précipitation aveugle ?
