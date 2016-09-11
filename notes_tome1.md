@@ -1,11 +1,6 @@
 
 
-
-[^61]: Il y a d'autres avantages que Smith n'a pas vus : meilleur classement des ouvriers d'après leurs aptitudes différentes ; plus grande utilité tirée des outils, dont les trois quarts resteraient à chaque instant inutilisés si un seul ouvrier s'en servait, etc.
-
-[^62]: Voir sur le travail mental la belle étude de M. Fouillée dans la _Revue des Deux-Mondes_, d'août 1900\.
-
-[^63]: Un pessimiste diratil que, en cela, le plaisir diffère de la douleur, et ne croit jamais que beaucoup moins vite que sa cause ? L'observation manquerait de justesse. Je sais bien que, si un pauvre vient à gagner100 000 francs à la loterie après en avoir déjà gagné 100 000, son plaisir n'est pas doublé ; mais c'est qu'il a atteint son maximum de joie à son premier gain. Si, peu à peu, par petites sommes accumulées, il est parvenu à gagner 100 000 francs, sa joie pendant quelque temps, a progressé plus rapidement que son avoir. L'espoir et le ravissement d'un amoureux à chaque nouvelle petite faveur qu'il reçoit, s'avivent bien plus vite que ne grandit le nombre ou l'importance de ces privautés.
+[^63]: Un pessimiste dira-t-il que, en cela, le plaisir diffère de la douleur, et ne croit jamais que beaucoup moins vite que sa cause ? L'observation manquerait de justesse. Je sais bien que, si un pauvre vient à gagner100 000 francs à la loterie après en avoir déjà gagné 100 000, son plaisir n'est pas doublé ; mais c'est qu'il a atteint son maximum de joie à son premier gain. Si, peu à peu, par petites sommes accumulées, il est parvenu à gagner 100 000 francs, sa joie pendant quelque temps, a progressé plus rapidement que son avoir. L'espoir et le ravissement d'un amoureux à chaque nouvelle petite faveur qu'il reçoit, s'avivent bien plus vite que ne grandit le nombre ou l'importance de ces privautés.
 
 [^64]: Ne faut-il pas voir un reste ou une suite de ces chants du travail dans les ritournelles spéciales par lesquelles les marchands du moyen âge annonçaient le passage de leurs marchandises, et qui étaient l'équivalent acoustique de nos annonces visuelles ?
 
@@ -23,7 +18,7 @@
 
 [^71]: Les initiés aux idées de Pythagore formaient un groupe aussi fermé que les initiés aux mystères d'Eleusis.
 
-[^72]: _Revue d'économie polit., février 1897._
+[^72]: _Revue d'économie polit._, février 1897.
 
 [^73]: _Voir la suite p. 150._
 
@@ -55,7 +50,7 @@
 
 [^87]: Si l'inventeur, à la différence du travailleur, du « mercenaire », souverainement méprisé était admiré et parfois divinisé par les anciens, cela tenait à ce que les esclaves n'inventaient rien. Si les esclaves eussent été inventifs, on peut être assuré que les anciens, tout en utilisant leurs inventions comme leurs travaux, auraient affecté de mépriser celles-là comme ceux-ci.
 
-[^88]: Les ouvriers, dit Gide, peuvent être remplacés par des _machines, non_ les patrons. – Est-ce vrai ? Est-ce que l'invention de la locomotive n'a pas supprimé tous les entrepreneurs de messageries aussi bien que leurs postillons, conducteurs et valets d'écurie ? Est-ce que la machine à coudre n'a pas supprimé beaucoup de petits ateliers de couture, laissant à la fois sans emploi la patronne et ses deux ou trois ouvrières ? Est-ce que les machines à tisser à la vapeur n'ont pas condamné à l'inaction aussi bien les maîtres tisserands que les ouvriers ? En réalité, c'est la direction du travail, aussi bien que le travail lui-même, qui est produite mécaniquement par les machines perfectionnées. Dans une _certaine m_esure, les presses à vapeur règlent le travail des ouvriers, le leur distribuent.
+[^88]: Les ouvriers, dit Gide, peuvent être remplacés par des _machines, non_ les patrons. – Est-ce vrai ? Est-ce que l'invention de la locomotive n'a pas supprimé tous les entrepreneurs de messageries aussi bien que leurs postillons, conducteurs et valets d'écurie ? Est-ce que la machine à coudre n'a pas supprimé beaucoup de petits ateliers de couture, laissant à la fois sans emploi la patronne et ses deux ou trois ouvrières ? Est-ce que les machines à tisser à la vapeur n'ont pas condamné à l'inaction aussi bien les maîtres tisserands que les ouvriers ? En réalité, c'est la direction du travail, aussi bien que le travail lui-même, qui est produite mécaniquement par les machines perfectionnées. Dans une _certaine mesure_, les presses à vapeur règlent le travail des ouvriers, le leur distribuent.
 
 [^89]: Autre exemple de cette formation imitative. « L'instruction du cautionnement consenti par des étrangers, dit Kovalesky, se forma sur le type de la caution familiale. » Voir le développement de cette idée, p. 152 de son ouvrage plus haut cité.
 
