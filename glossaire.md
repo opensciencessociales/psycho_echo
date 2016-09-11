@@ -205,4 +205,20 @@ Il est inouï qu'une science si préoccupée de l'élevage des animaux et de la 
 
 * fonctionnarisme
 
-> L'ère du salariat n'est donc pas près de se clore ; les progrès incessants, en tout pays, du fonctionnarisme, ce salariat bourgeois, en sont la preuve. 
+> L'ère du salariat n'est donc pas près de se clore ; les progrès incessants, en tout pays, du fonctionnarisme, ce salariat bourgeois, en sont la preuve.
+
+#### Section 3
+
+* croît
+
+> À l'époque pastorale, le croît et le lait des troupeaux constituent déjà un revenu, que, malheureusement, les sécheresses et les épizooties fréquentes rendent des plus mal assurés et des plus variables.
+
+épizooties
+
+> À l'époque pastorale, le croît et le lait des troupeaux constituent déjà un revenu, que, malheureusement, les sécheresses et les épizooties fréquentes rendent des plus mal assurés et des plus variables.
+
+_Théorie du salaire_ de M. Beauregard
+
+trouvère
+
+> Chez les Arabes de Turquie, par exception, je vois figurer, au nombre des récréations, les contes débités par une sorte de trouvère rustique : c'est un des rares côtés où l'art apparaisse dans ces existences primitives.
